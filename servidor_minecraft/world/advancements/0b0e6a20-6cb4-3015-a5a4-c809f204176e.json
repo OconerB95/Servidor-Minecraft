@@ -244,10 +244,12 @@
       "minecraft:bamboo_jungle": "2025-02-09 05:34:49 +0000",
       "minecraft:wooded_badlands": "2025-02-09 05:41:04 +0000",
       "minecraft:badlands": "2025-02-09 05:42:16 +0000",
+      "minecraft:beach": "2025-02-09 20:08:47 +0000",
       "minecraft:sparse_jungle": "2025-02-09 05:40:54 +0000",
       "minecraft:river": "2025-02-09 05:34:46 +0000",
       "minecraft:stony_shore": "2025-02-09 05:51:09 +0000",
       "minecraft:grove": "2025-02-09 07:40:36 +0000",
+      "minecraft:cold_ocean": "2025-02-09 20:10:14 +0000",
       "minecraft:forest": "2025-02-09 06:13:09 +0000",
       "minecraft:desert": "2025-02-09 05:50:56 +0000",
       "minecraft:jungle": "2025-02-09 06:02:10 +0000",
@@ -1750,6 +1752,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/red_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_red_dye]": "2025-02-09 20:05:38 +0000"
@@ -1762,15 +1770,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-02-09 20:05:38 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-02-09 20:07:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2025-02-09 20:11:05 +0000"
     },
     "done": true
   },
