@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-09 06:11:13 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-09 06:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -104,6 +116,18 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-09 06:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-09 06:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
     },
     "done": true
   },
@@ -179,6 +203,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-09 07:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-09 05:37:22 +0000"
@@ -227,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 06:20:44 +0000"
@@ -236,6 +278,18 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 06:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-09 07:35:23 +0000"
     },
     "done": true
   },
@@ -329,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 06:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 06:30:14 +0000"
@@ -353,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-09 06:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-09 06:01:47 +0000"
@@ -368,6 +434,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-09 05:37:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-09 07:11:17 +0000"
     },
     "done": true
   },
@@ -437,9 +509,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-09 06:50:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/rocky_stone": {
     "criteria": {
       "has_cobblestone": "2025-02-09 05:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:45:46 +0000"
     },
     "done": true
   },
@@ -464,6 +554,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -497,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-09 06:22:33 +0000"
@@ -509,11 +611,20 @@
       "biomeswevegone:windswept_desert": "2025-02-09 05:58:56 +0000",
       "biomeswevegone:crag_gardens": "2025-02-09 06:11:08 +0000",
       "biomeswevegone:fragment_jungle": "2025-02-09 05:33:29 +0000",
+      "biomeswevegone:sakura_grove": "2025-02-09 07:29:23 +0000",
+      "biomeswevegone:zelkova_forest": "2025-02-09 07:15:07 +0000",
       "biomeswevegone:red_rock_valley": "2025-02-09 05:47:16 +0000",
+      "biomeswevegone:lush_stacks": "2025-02-09 06:42:49 +0000",
       "biomeswevegone:sierra_badlands": "2025-02-09 05:42:21 +0000",
       "biomeswevegone:ironwood_gour": "2025-02-09 06:13:16 +0000",
+      "biomeswevegone:orchard": "2025-02-09 07:01:35 +0000",
       "biomeswevegone:amaranth_grassland": "2025-02-09 06:14:23 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-02-09 07:02:41 +0000",
+      "biomeswevegone:aspen_boreal": "2025-02-09 07:02:19 +0000",
+      "biomeswevegone:dacite_ridges": "2025-02-09 07:15:24 +0000",
       "biomeswevegone:dead_sea": "2025-02-09 05:55:43 +0000",
+      "biomeswevegone:allium_shrubland": "2025-02-09 07:25:23 +0000",
+      "biomeswevegone:baobab_savanna": "2025-02-09 06:56:24 +0000",
       "biomeswevegone:rainbow_beach": "2025-02-09 06:24:59 +0000"
     },
     "done": false
@@ -536,9 +647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-09 06:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-09 05:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -611,9 +734,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-09 06:05:49 +0000",
+      "minecraft:piglin_brute": "2025-02-09 07:04:54 +0000",
       "minecraft:spider": "2025-02-09 05:51:04 +0000",
       "minecraft:husk": "2025-02-09 05:53:02 +0000",
-      "minecraft:zombie": "2025-02-09 06:22:02 +0000"
+      "minecraft:zombie": "2025-02-09 06:22:02 +0000",
+      "minecraft:zombie_villager": "2025-02-09 06:57:00 +0000"
     },
     "done": false
   },
@@ -641,9 +766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-09 06:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:50:32 +0000"
     },
     "done": true
   },
@@ -656,6 +793,12 @@
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-09 06:50:29 +0000"
     },
     "done": true
   },
@@ -674,6 +817,18 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-09 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -737,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-09 06:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
@@ -758,6 +919,18 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-09 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-02-09 07:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-09 06:53:46 +0000"
     },
     "done": true
   },
@@ -791,9 +964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-09 06:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -866,6 +1051,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 06:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -1019,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 06:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-09 06:05:36 +0000"
@@ -1028,6 +1225,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 06:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -1049,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-02-09 06:11:13 +0000"
@@ -1064,6 +1279,18 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-02-09 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
     },
     "done": true
   },
@@ -1097,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-02-09 06:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-09 06:26:58 +0000"
@@ -1112,6 +1345,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-02-09 05:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 06:39:24 +0000"
     },
     "done": true
   },
@@ -1133,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
@@ -1148,6 +1393,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-09 05:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
     },
     "done": true
   },
@@ -1169,9 +1426,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-09 05:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-09 06:50:32 +0000"
     },
     "done": true
   },
@@ -1196,6 +1465,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-09 05:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -1271,6 +1546,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-02-09 06:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-09 05:35:46 +0000"
@@ -1280,6 +1561,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-02-09 05:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -1319,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-09 06:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-09 05:37:35 +0000"
@@ -1330,6 +1623,18 @@
       "in_water": "2025-02-09 05:34:28 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:recipes/misc/cyan_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_cyan_dye]": "2025-02-09 06:45:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-02-09 07:05:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
@@ -1385,6 +1690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-09 06:13:41 +0000"
@@ -1430,6 +1741,12 @@
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-09 06:50:32 +0000"
     },
     "done": true
   },
@@ -1559,9 +1876,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-09 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-02-09 06:45:46 +0000"
     },
     "done": true
   },
@@ -1589,15 +1918,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 06:20:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-09 07:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 06:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-09 07:35:21 +0000"
     },
     "done": true
   },
@@ -1637,27 +1984,52 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-09 06:58:47 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/white_mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-02-09 05:50:21 +0000",
+      "minecraft:birch_forest": "2025-02-09 07:03:08 +0000",
       "minecraft:bamboo_jungle": "2025-02-09 05:34:34 +0000",
       "minecraft:wooded_badlands": "2025-02-09 05:41:00 +0000",
       "minecraft:badlands": "2025-02-09 05:42:36 +0000",
+      "minecraft:beach": "2025-02-09 06:44:18 +0000",
+      "minecraft:dark_forest": "2025-02-09 07:37:12 +0000",
       "minecraft:sparse_jungle": "2025-02-09 06:07:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-09 06:43:04 +0000",
       "minecraft:river": "2025-02-09 05:34:28 +0000",
       "minecraft:stony_shore": "2025-02-09 05:50:34 +0000",
+      "minecraft:forest": "2025-02-09 06:47:34 +0000",
       "minecraft:desert": "2025-02-09 05:50:33 +0000",
       "minecraft:jungle": "2025-02-09 06:00:59 +0000",
       "minecraft:warm_ocean": "2025-02-09 05:55:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-09 07:12:17 +0000",
+      "minecraft:savanna": "2025-02-09 06:50:42 +0000",
       "minecraft:plains": "2025-02-09 06:11:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:45:46 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
@@ -1713,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-09 06:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-09 06:05:36 +0000"
@@ -1743,9 +2121,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-09 06:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-09 06:21:23 +0000",
+      "cooked_mutton": "2025-02-09 07:20:17 +0000",
+      "cooked_beef": "2025-02-09 06:47:58 +0000",
       "melon_slice": "2025-02-09 05:39:34 +0000"
     },
     "done": false
@@ -1762,6 +2148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-09 06:50:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_boat": {
     "criteria": {
       "in_water": "2025-02-09 05:34:28 +0000"
@@ -1771,6 +2163,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-02-09 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-09 06:39:55 +0000"
     },
     "done": true
   },
@@ -1786,6 +2184,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-09 06:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-09 06:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 06:30:14 +0000"
@@ -1795,6 +2205,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-09 05:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-09 07:35:57 +0000"
     },
     "done": true
   },
@@ -1951,6 +2367,12 @@
   "biomeswevegone:recipes/transportation/holly_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-09 05:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-09 07:35:23 +0000"
     },
     "done": true
   },

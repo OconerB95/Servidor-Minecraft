@@ -496,3 +496,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Feb2025 06:20:58.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Isn't It Iron Pick]
 [09Feb2025 06:29:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Not Today, Thank You]
 [09Feb2025 06:32:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Suit Up]
+[09Feb2025 06:42:56.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Isn't It Iron Pick]
+[09Feb2025 06:55:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mauro_Mauro> ZZZ
+[09Feb2025 06:58:12.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/29014, l='ServerLevel[world]', x=-2654.31, y=65.00, z=1290.70] died, message: 'Nitwit was slain by Zombie'
+[09Feb2025 07:06:15.800] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Feb2025 07:06:15.950] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Feb2025 07:06:15.966] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Feb2025 07:06:15.988] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Feb2025 07:06:16.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[09Feb2025 07:14:52.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 fell from a high place
+[09Feb2025 07:19:10.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made nachoF07 a server operator
+[09Feb2025 07:19:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Feb2025 07:19:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro<--[HERE]
+[09Feb2025 07:19:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Mauro_Mauro a server operator
+[09Feb2025 07:20:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 drowned whilst trying to escape Drowned
+[09Feb2025 07:21:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nachoF07: Teleported nachoF07 to Mauro_Mauro]
+[09Feb2025 07:27:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Best Friends Forever]
+[09Feb2025 07:35:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nachoF07: Teleported nachoF07 to Mauro_Mauro]
+[09Feb2025 07:39:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nachoF07: Teleported nachoF07 to Mauro_Mauro]
+[09Feb2025 07:41:22.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nachoF07 lost connection: Disconnected
+[09Feb2025 07:41:22.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 left the game
