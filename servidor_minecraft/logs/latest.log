@@ -219,3 +219,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Feb2025 20:03:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro joined the game
 [09Feb2025 20:11:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Forager]
 [09Feb2025 20:18:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nachoF07> zz
+[09Feb2025 20:23:31.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3508, y=66, z=-519} BlockPos{x=-3509, y=65, z=-519}
+[09Feb2025 20:28:14.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Best Friends Forever]
+[09Feb2025 20:33:05.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Fishy Business]

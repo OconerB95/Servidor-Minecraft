@@ -1752,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-09 20:24:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
     "criteria": {
       "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
@@ -1770,9 +1776,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 20:25:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
     "criteria": {
       "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-09 20:27:41 +0000"
     },
     "done": true
   },
@@ -1782,9 +1800,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 20:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-09 20:25:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
     "criteria": {
       "has_white_puffball_cap": "2025-02-09 20:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-09 20:24:40 +0000"
     },
     "done": true
   },
