@@ -34,6 +34,7 @@
       "minecraft:forest": "2025-02-16 02:57:31 +0000",
       "minecraft:jungle": "2025-02-16 03:05:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 02:54:46 +0000",
+      "minecraft:meadow": "2025-02-16 15:53:02 +0000",
       "minecraft:savanna": "2025-02-16 03:44:33 +0000",
       "minecraft:plains": "2025-02-16 03:41:57 +0000"
     },
@@ -1786,6 +1787,48 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-16 05:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-16 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-16 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-16 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-02-16 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-16 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-16 15:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-16 15:53:00 +0000"
     },
     "done": true
   },

@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-16 02:53:30 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 03:07:27 +0000",
+      "minecraft:beach": "2025-02-16 15:51:09 +0000",
       "minecraft:sparse_jungle": "2025-02-16 03:03:44 +0000",
       "minecraft:river": "2025-02-16 02:53:22 +0000",
       "minecraft:dripstone_caves": "2025-02-16 04:11:19 +0000",
@@ -1569,6 +1570,24 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-02-16 05:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-16 15:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-16 15:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-16 15:50:26 +0000"
     },
     "done": true
   },
