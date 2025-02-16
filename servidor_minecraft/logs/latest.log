@@ -681,3 +681,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [16Feb2025 02:49:51.038] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to nachoF07
 [16Feb2025 02:49:51.038] [Server thread/INFO] [Jade/]: Syncing config to nachoF07 (ced02633-47a0-4b22-92db-6fb68a142a80)
 [16Feb2025 02:49:51.542] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
+[16Feb2025 02:53:21.514] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Feb2025 02:53:21.516] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Feb2025 02:53:21.516] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Feb2025 02:53:21.516] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Feb2025 02:53:21.517] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Feb2025 02:54:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Stone Age]
+[16Feb2025 02:54:43.924] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro_Mauro is a95308da-4354-4c6e-aa81-8a210e54cd06
+[16Feb2025 02:54:45.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro_Mauro[/127.78.170.166:45155] logged in with entity id 1642 at (-52.5, 63.0, 24.5)
+[16Feb2025 02:54:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro joined the game
+[16Feb2025 02:54:45.824] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Mauro_Mauro
+[16Feb2025 02:54:45.824] [Server thread/INFO] [Jade/]: Syncing config to Mauro_Mauro (a95308da-4354-4c6e-aa81-8a210e54cd06)
+[16Feb2025 02:54:46.406] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Mauro_Mauro
+[16Feb2025 02:58:18.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Stone Age]
+[16Feb2025 02:58:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Getting an Upgrade]
+[16Feb2025 02:58:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Getting an Upgrade]
+[16Feb2025 03:01:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Monster Hunter]
