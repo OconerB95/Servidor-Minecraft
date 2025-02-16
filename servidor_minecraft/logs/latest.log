@@ -697,3 +697,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [16Feb2025 02:58:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Getting an Upgrade]
 [16Feb2025 02:58:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Getting an Upgrade]
 [16Feb2025 03:01:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Monster Hunter]
+[16Feb2025 03:02:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Monster Hunter]
+[16Feb2025 03:02:58.968] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Feb2025 03:04:56.640] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[16Feb2025 03:04:56.641] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[16Feb2025 03:05:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Barrel Booty]
+[16Feb2025 03:05:36.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement ['X' Marks the Spot]
+[16Feb2025 03:06:13.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Barrel Booty]
+[16Feb2025 03:06:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement ['X' Marks the Spot]
+[16Feb2025 03:06:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Acquire Hardware]
+[16Feb2025 03:07:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Acquire Hardware]
+[16Feb2025 03:08:54.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Disme A Dozen]
+[16Feb2025 03:09:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Disme A Dozen]
+[16Feb2025 03:19:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Suit Up]
+[16Feb2025 03:24:27.101] [Worker-Main-17/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[16Feb2025 03:25:51.863] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16Feb2025 03:25:58.756] [Worker-Main-17/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16Feb2025 03:26:03.948] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[16Feb2025 03:26:03.948] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[16Feb2025 03:26:54.925] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[16Feb2025 03:26:57.207] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[16Feb2025 03:26:57.208] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[16Feb2025 03:27:06.935] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[16Feb2025 03:27:06.936] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[16Feb2025 03:27:07.787] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[16Feb2025 03:27:07.788] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[16Feb2025 03:27:07.788] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[16Feb2025 03:27:07.788] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[16Feb2025 03:27:07.788] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[16Feb2025 03:28:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Close Quarters]
+[16Feb2025 03:28:05.862] [Worker-Main-18/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
