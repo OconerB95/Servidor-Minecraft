@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-16 03:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-16 02:54:38 +0000"
@@ -1071,6 +1077,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-16 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-16 03:56:08 +0000"
     },
     "done": true
   },
