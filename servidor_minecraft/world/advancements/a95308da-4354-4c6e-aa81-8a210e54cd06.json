@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-16 04:18:29 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-16 03:05:13 +0000",
@@ -751,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-16 04:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-16 03:06:55 +0000"
@@ -1001,6 +1013,7 @@
       "minecraft:beach": "2025-02-16 03:25:13 +0000",
       "minecraft:sparse_jungle": "2025-02-16 03:03:48 +0000",
       "minecraft:river": "2025-02-16 02:57:20 +0000",
+      "minecraft:dripstone_caves": "2025-02-16 04:09:11 +0000",
       "minecraft:forest": "2025-02-16 02:57:31 +0000",
       "minecraft:jungle": "2025-02-16 03:05:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 02:54:46 +0000",
