@@ -1,0 +1,33 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-16 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-16 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-16 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-16 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-02-16 02:45:51 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
