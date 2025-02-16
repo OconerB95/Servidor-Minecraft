@@ -825,3 +825,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [16Feb2025 04:50:19.862] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
 [16Feb2025 04:53:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Cover Me with Diamonds]
 [16Feb2025 04:56:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Cover Me with Diamonds]
+[16Feb2025 05:06:12.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Ice Bucket Challenge]
+[16Feb2025 05:09:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Penteconter]

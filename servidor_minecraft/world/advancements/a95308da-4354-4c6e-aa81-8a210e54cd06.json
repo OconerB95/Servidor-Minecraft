@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-16 05:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-16 04:22:37 +0000"
@@ -580,6 +586,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-16 02:58:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-02-16 05:02:11 +0000"
     },
     "done": true
   },
@@ -1097,6 +1109,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-16 04:22:38 +0000",
       "minecraft:spider": "2025-02-16 03:02:26 +0000",
+      "minecraft:husk": "2025-02-16 05:03:49 +0000",
       "minecraft:cave_spider": "2025-02-16 04:00:34 +0000",
       "minecraft:zombie": "2025-02-16 03:19:11 +0000",
       "minecraft:zombie_villager": "2025-02-16 03:21:29 +0000"
