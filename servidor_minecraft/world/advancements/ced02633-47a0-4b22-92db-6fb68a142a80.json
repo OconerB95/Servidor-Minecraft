@@ -28,6 +28,7 @@
       "minecraft:cherry_grove": "2025-02-16 16:07:56 +0000",
       "minecraft:birch_forest": "2025-02-16 02:53:30 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 03:07:27 +0000",
+      "minecraft:wooded_badlands": "2025-02-16 19:41:38 +0000",
       "minecraft:beach": "2025-02-16 15:51:09 +0000",
       "minecraft:sparse_jungle": "2025-02-16 03:03:44 +0000",
       "minecraft:river": "2025-02-16 02:53:22 +0000",
@@ -591,8 +592,10 @@
       "cooked_beef": "2025-02-16 16:15:33 +0000",
       "baked_potato": "2025-02-16 04:53:21 +0000",
       "apple": "2025-02-16 15:53:24 +0000",
+      "potato": "2025-02-16 19:39:18 +0000",
       "bread": "2025-02-16 04:23:45 +0000",
-      "melon_slice": "2025-02-16 03:05:00 +0000"
+      "melon_slice": "2025-02-16 03:05:00 +0000",
+      "cooked_chicken": "2025-02-16 19:24:17 +0000"
     },
     "done": false
   },
@@ -1636,15 +1639,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-02-16 19:38:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-02-16 19:08:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-16 19:38:01 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-02-16 19:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-16 19:29:12 +0000"
     },
     "done": true
   },
