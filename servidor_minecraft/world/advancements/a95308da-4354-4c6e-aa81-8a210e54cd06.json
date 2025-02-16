@@ -439,6 +439,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-16 16:13:39 +0000",
       "baked_potato": "2025-02-16 03:19:15 +0000",
       "bread": "2025-02-16 03:05:41 +0000",
       "golden_apple": "2025-02-16 04:55:45 +0000",
@@ -1789,6 +1790,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-16 05:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 16:18:26 +0000"
     },
     "done": true
   },
