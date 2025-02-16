@@ -813,3 +813,15 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [16Feb2025 04:26:21.433] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to nachoF07
 [16Feb2025 04:26:21.434] [Server thread/INFO] [Jade/]: Syncing config to nachoF07 (ced02633-47a0-4b22-92db-6fb68a142a80)
 [16Feb2025 04:26:21.695] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
+[16Feb2025 04:43:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Take Aim]
+[16Feb2025 04:48:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nachoF07 lost connection: Disconnected
+[16Feb2025 04:48:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 left the game
+[16Feb2025 04:48:23.385] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 04:50:17.497] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player nachoF07 is ced02633-47a0-4b22-92db-6fb68a142a80
+[16Feb2025 04:50:19.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nachoF07[/127.205.245.216:38639] logged in with entity id 35445 at (146.6034686733781, 62.07326432466507, 477.3125)
+[16Feb2025 04:50:19.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 joined the game
+[16Feb2025 04:50:19.390] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to nachoF07
+[16Feb2025 04:50:19.391] [Server thread/INFO] [Jade/]: Syncing config to nachoF07 (ced02633-47a0-4b22-92db-6fb68a142a80)
+[16Feb2025 04:50:19.862] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
+[16Feb2025 04:53:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Cover Me with Diamonds]
+[16Feb2025 04:56:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Cover Me with Diamonds]
