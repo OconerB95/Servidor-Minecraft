@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-02-16 16:07:56 +0000",
       "minecraft:birch_forest": "2025-02-16 02:53:30 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 03:07:27 +0000",
       "minecraft:beach": "2025-02-16 15:51:09 +0000",
@@ -588,6 +589,7 @@
     "criteria": {
       "cooked_mutton": "2025-02-16 03:26:12 +0000",
       "baked_potato": "2025-02-16 04:53:21 +0000",
+      "apple": "2025-02-16 15:53:24 +0000",
       "bread": "2025-02-16 04:23:45 +0000",
       "melon_slice": "2025-02-16 03:05:00 +0000"
     },
@@ -1573,6 +1575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 16:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-16 15:50:26 +0000"
@@ -1585,9 +1593,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-16 16:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-02-16 15:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-16 16:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-16 16:13:09 +0000"
     },
     "done": true
   },
