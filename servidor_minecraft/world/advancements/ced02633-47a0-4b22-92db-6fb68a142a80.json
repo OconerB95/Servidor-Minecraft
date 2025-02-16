@@ -104,6 +104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-16 04:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 03:06:34 +0000"
@@ -161,7 +167,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-16 03:06:13 +0000",
-      "opened_chest": "2025-02-16 03:06:30 +0000"
+      "opened_chest": "2025-02-16 03:06:30 +0000",
+      "opened_cart": "2025-02-16 04:02:13 +0000"
     },
     "done": false
   },
@@ -210,6 +217,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-02-16 03:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 04:02:23 +0000"
     },
     "done": true
   },
@@ -324,6 +337,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-16 03:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 04:02:23 +0000"
     },
     "done": true
   },
@@ -597,6 +616,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-02-16 04:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-02-16 03:23:21 +0000"
@@ -660,6 +685,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-16 02:50:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-16 04:02:13 +0000"
     },
     "done": true
   },
@@ -1038,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-16 04:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-16 02:52:34 +0000"
@@ -1128,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-16 04:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-16 02:53:15 +0000"
@@ -1149,6 +1192,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-16 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-16 04:03:53 +0000"
     },
     "done": true
   },

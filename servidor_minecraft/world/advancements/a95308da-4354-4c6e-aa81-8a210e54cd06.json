@@ -134,7 +134,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-16 03:05:13 +0000",
-      "opened_chest": "2025-02-16 03:05:36 +0000"
+      "opened_chest": "2025-02-16 03:05:36 +0000",
+      "opened_cart": "2025-02-16 04:00:58 +0000"
     },
     "done": false
   },
@@ -177,6 +178,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-02-16 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 04:01:01 +0000"
     },
     "done": true
   },
@@ -309,6 +316,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-02-16 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-16 04:01:01 +0000"
     },
     "done": true
   },
@@ -636,6 +649,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-02-16 04:01:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-02-16 03:29:04 +0000"
@@ -723,6 +742,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-16 02:58:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-16 04:00:58 +0000"
     },
     "done": true
   },
@@ -837,6 +862,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-02-16 03:02:26 +0000",
+      "minecraft:cave_spider": "2025-02-16 04:00:34 +0000",
       "minecraft:zombie": "2025-02-16 03:19:11 +0000",
       "minecraft:zombie_villager": "2025-02-16 03:21:29 +0000"
     },
@@ -1294,6 +1320,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-16 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-16 04:01:31 +0000"
     },
     "done": true
   },
