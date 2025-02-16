@@ -439,6 +439,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-16 19:13:15 +0000",
       "cooked_beef": "2025-02-16 16:13:39 +0000",
       "baked_potato": "2025-02-16 03:19:15 +0000",
       "bread": "2025-02-16 03:05:41 +0000",
@@ -1988,6 +1989,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-02-16 16:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-16 19:22:04 +0000"
     },
     "done": true
   },
