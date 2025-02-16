@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 04:21:02 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-16 03:05:13 +0000",
@@ -217,9 +223,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 04:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-16 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-16 04:22:37 +0000"
     },
     "done": true
   },
@@ -274,6 +298,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-16 02:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
     },
     "done": true
   },
@@ -415,6 +445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-16 03:56:53 +0000"
@@ -496,6 +532,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 03:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
     },
     "done": true
   },
@@ -607,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 03:38:32 +0000"
@@ -646,6 +694,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-16 03:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
     },
     "done": true
   },
@@ -873,12 +927,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-16 04:22:38 +0000",
       "minecraft:spider": "2025-02-16 03:02:26 +0000",
       "minecraft:cave_spider": "2025-02-16 04:00:34 +0000",
       "minecraft:zombie": "2025-02-16 03:19:11 +0000",
       "minecraft:zombie_villager": "2025-02-16 03:21:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -949,6 +1010,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-16 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-16 04:22:39 +0000"
     },
     "done": true
   },
@@ -1130,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-02-16 03:19:15 +0000",
@@ -1204,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-16 03:56:53 +0000"
@@ -1213,6 +1292,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-16 03:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-16 04:21:00 +0000"
     },
     "done": true
   },
@@ -1297,6 +1382,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 03:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 04:21:02 +0000"
     },
     "done": true
   },
