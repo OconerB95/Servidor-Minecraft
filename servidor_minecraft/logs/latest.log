@@ -404,3 +404,4 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [18Feb2025 01:15:40.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2882, y=77, z=4135} BlockPos{x=2883, y=76, z=4134}
 [18Feb2025 01:19:10.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nachoF07> QQQ
 [18Feb2025 01:33:16.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2860, y=64, z=4117} BlockPos{x=2861, y=62, z=4118}
+[18Feb2025 02:27:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Fishy Business]
