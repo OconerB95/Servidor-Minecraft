@@ -278,3 +278,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Feb2025 00:30:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro fell from a high place
 [18Feb2025 00:31:21.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nachoF07> 22222
 [18Feb2025 00:32:49.675] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Feb2025 00:38:59.336] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Feb2025 00:38:59.340] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Feb2025 00:38:59.340] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Feb2025 00:38:59.340] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Feb2025 00:39:17.931] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Feb2025 00:39:17.932] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Feb2025 00:39:49.134] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Feb2025 00:40:23.699] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Feb2025 00:40:23.868] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[18Feb2025 00:41:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Campfire Song Song]
+[18Feb2025 00:43:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Campfire Song Song]
+[18Feb2025 00:47:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was chopped to bits by Skirmisher
+[18Feb2025 00:47:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro was chopped to bits by Skirmisher
