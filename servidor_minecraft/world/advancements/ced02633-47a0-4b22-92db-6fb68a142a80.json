@@ -32,12 +32,15 @@
       "minecraft:wooded_badlands": "2025-02-16 19:41:38 +0000",
       "minecraft:savanna_plateau": "2025-02-16 20:08:14 +0000",
       "minecraft:beach": "2025-02-16 15:51:09 +0000",
+      "minecraft:dark_forest": "2025-02-18 01:04:04 +0000",
       "minecraft:sparse_jungle": "2025-02-16 03:03:44 +0000",
       "minecraft:river": "2025-02-16 02:53:22 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-18 01:00:46 +0000",
       "minecraft:dripstone_caves": "2025-02-16 04:11:19 +0000",
       "minecraft:forest": "2025-02-16 02:54:05 +0000",
       "minecraft:lush_caves": "2025-02-16 03:12:38 +0000",
       "minecraft:jungle": "2025-02-16 03:06:06 +0000",
+      "minecraft:ocean": "2025-02-18 01:01:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 02:45:51 +0000",
       "minecraft:meadow": "2025-02-16 20:00:28 +0000",
       "minecraft:savanna": "2025-02-16 03:44:31 +0000",
@@ -2046,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-18 00:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2025-02-18 00:45:28 +0000"
@@ -2079,6 +2088,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-18 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 00:54:48 +0000"
     },
     "done": true
   },
@@ -2130,9 +2145,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-18 00:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-18 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-18 00:54:48 +0000"
     },
     "done": true
   },
