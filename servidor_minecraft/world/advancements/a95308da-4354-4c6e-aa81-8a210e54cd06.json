@@ -2389,6 +2389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-18 01:45:43 +0000"
+    },
+    "done": true
+  },
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2025-02-18 00:41:21 +0000"
@@ -2416,6 +2422,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-18 00:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 01:45:43 +0000"
     },
     "done": true
   },
