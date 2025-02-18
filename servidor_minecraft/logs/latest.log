@@ -413,3 +413,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [18Feb2025 03:29:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro was shot by Skeleton
 [18Feb2025 03:30:35.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was doomed to fall by Skeleton
 [18Feb2025 03:32:53.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro was slain by Skeleton
+[18Feb2025 03:56:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has reached the goal [Hired Help]
+[18Feb2025 03:56:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has reached the goal [Hired Help]
