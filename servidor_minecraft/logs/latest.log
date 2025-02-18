@@ -408,3 +408,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [18Feb2025 02:56:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Guns and Roses]
 [18Feb2025 02:57:02.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro has made the advancement [Guns and Roses]
 [18Feb2025 03:16:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro was shot by Skeleton
+[18Feb2025 03:21:01.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro_Mauro was doomed to fall by Skeleton
+[18Feb2025 03:21:14.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
