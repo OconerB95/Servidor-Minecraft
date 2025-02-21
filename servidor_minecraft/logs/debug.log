@@ -2239,3 +2239,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 04:00:03.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 04:00:03.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 04:00:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Enchanter]
+[21Feb2025 04:01:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was doomed to fall by Skeleton
+[21Feb2025 04:05:03.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 04:05:03.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 04:08:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Zombie
+[21Feb2025 04:08:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Zombie
+[21Feb2025 04:09:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Zombie
+[21Feb2025 04:10:03.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 04:10:03.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 04:10:42.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ fell from a high place
+[21Feb2025 04:10:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 fell from a high place
+[21Feb2025 04:15:03.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 04:15:03.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 04:19:38.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by MaaurooSSJ
+[21Feb2025 04:20:03.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 04:20:03.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

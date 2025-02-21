@@ -289,3 +289,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 03:42:44.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
 [21Feb2025 03:55:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
 [21Feb2025 04:00:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Enchanter]
+[21Feb2025 04:01:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was doomed to fall by Skeleton
+[21Feb2025 04:08:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Zombie
+[21Feb2025 04:08:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Zombie
+[21Feb2025 04:09:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Zombie
+[21Feb2025 04:10:42.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ fell from a high place
+[21Feb2025 04:10:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 fell from a high place
+[21Feb2025 04:19:38.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by MaaurooSSJ
