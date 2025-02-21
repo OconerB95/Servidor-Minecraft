@@ -259,3 +259,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 01:31:02.563] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MaaurooSSJ
 [21Feb2025 01:31:02.565] [Server thread/INFO] [Jade/]: Syncing config to MaaurooSSJ (a95308da-4354-4c6e-aa81-8a210e54cd06)
 [21Feb2025 01:31:03.080] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MaaurooSSJ
+[21Feb2025 01:48:10.646] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[21Feb2025 01:48:10.646] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[21Feb2025 01:48:10.646] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
