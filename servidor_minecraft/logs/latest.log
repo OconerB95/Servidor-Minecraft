@@ -270,3 +270,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 02:58:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Who is Cutting Onions?]
 [21Feb2025 03:02:02.624] [Worker-Main-58/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [21Feb2025 03:02:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Enderman
+[21Feb2025 03:15:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Skeleton
+[21Feb2025 03:17:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Skeleton
+[21Feb2025 03:21:41.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Skeleton
+[21Feb2025 03:24:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was shot by Skeleton
