@@ -276,3 +276,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 03:24:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was shot by Skeleton
 [21Feb2025 03:32:21.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by MaaurooSSJ
 [21Feb2025 03:36:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was shot by Skeleton
+[21Feb2025 03:42:42.752] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.752] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.770] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.770] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.792] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.793] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.842] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.843] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.859] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:42.859] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Feb2025 03:42:44.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[21Feb2025 03:55:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
+[21Feb2025 04:00:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Enchanter]
