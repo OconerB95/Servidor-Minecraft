@@ -263,3 +263,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Feb2025 01:48:10.646] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [21Feb2025 01:48:10.646] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [21Feb2025 02:38:00.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Hot Stuff]
+[21Feb2025 02:43:36.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Diamond is Unbreakable]
