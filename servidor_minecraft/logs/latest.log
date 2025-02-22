@@ -283,3 +283,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [22Feb2025 01:50:27.431] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
 [22Feb2025 01:50:34.893] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [22Feb2025 01:54:02.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15558ms or 311 ticks behind
+[22Feb2025 01:56:15.931] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[22Feb2025 01:58:04.002] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[22Feb2025 01:58:13.124] [Worker-Main-11/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[22Feb2025 01:58:13.134] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[22Feb2025 01:58:13.136] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[22Feb2025 01:58:13.242] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[22Feb2025 01:58:13.250] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[22Feb2025 01:58:13.251] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[22Feb2025 01:58:13.251] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[22Feb2025 01:58:13.251] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[22Feb2025 01:58:13.252] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[22Feb2025 01:58:15.854] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[22Feb2025 01:58:15.854] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[22Feb2025 01:58:16.104] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[22Feb2025 01:58:18.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved too quickly! 8.889812107980106,-0.604424101326714,-5.055418640944481
+[22Feb2025 01:59:06.189] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22Feb2025 02:03:16.952] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22Feb2025 02:03:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Enter Sandman]
+[22Feb2025 02:03:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Enter Sandman]
+[22Feb2025 02:05:51.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Cave Spider
+[22Feb2025 02:10:08.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Husk
+[22Feb2025 02:10:47.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has completed the challenge [Serious Dedication]
+[22Feb2025 02:11:43.530] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[22Feb2025 02:13:01.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by MaaurooSSJ
+[22Feb2025 02:16:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Husk
+[22Feb2025 02:21:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Cave Spider
+[22Feb2025 02:34:01.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Fortune Seeker]
