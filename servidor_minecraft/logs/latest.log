@@ -318,3 +318,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [22Feb2025 02:48:57.757] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [22Feb2025 02:51:16.234] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [22Feb2025 02:54:27.147] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[22Feb2025 03:01:16.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Zombie
+[22Feb2025 03:02:58.610] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22Feb2025 03:02:58.610] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22Feb2025 03:03:20.064] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[22Feb2025 03:03:24.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved wrongly!
+[22Feb2025 03:06:00.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved wrongly!
