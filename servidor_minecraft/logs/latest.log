@@ -324,3 +324,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [22Feb2025 03:03:20.064] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [22Feb2025 03:03:24.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved wrongly!
 [22Feb2025 03:06:00.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved wrongly!
+[22Feb2025 03:40:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Diamond is Unbreakable]
+[22Feb2025 03:40:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Patience Is The Road To Wisdom]
+[22Feb2025 03:42:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was shot by nachoF07
