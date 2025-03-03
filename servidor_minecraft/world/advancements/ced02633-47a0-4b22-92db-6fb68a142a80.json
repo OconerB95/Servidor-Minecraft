@@ -25,6 +25,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-03 05:17:02 +0000",
+      "minecraft:deep_ocean": "2025-03-03 05:15:14 +0000",
       "minecraft:cherry_grove": "2025-02-16 16:07:56 +0000",
       "minecraft:sunflower_plains": "2025-02-16 20:31:16 +0000",
       "minecraft:birch_forest": "2025-02-16 02:53:30 +0000",
@@ -451,6 +453,7 @@
       "minecraft:husk": "2025-02-16 05:04:06 +0000",
       "minecraft:cave_spider": "2025-02-16 04:24:39 +0000",
       "minecraft:zombie": "2025-02-16 03:01:30 +0000",
+      "minecraft:drowned": "2025-03-03 05:16:15 +0000",
       "minecraft:zombie_villager": "2025-03-03 05:11:12 +0000"
     },
     "done": false
@@ -612,7 +615,8 @@
       "golden_apple": "2025-02-22 02:26:21 +0000",
       "salmon": "2025-02-22 01:58:10 +0000",
       "melon_slice": "2025-02-16 03:05:00 +0000",
-      "cooked_chicken": "2025-02-16 19:24:17 +0000"
+      "cooked_chicken": "2025-02-16 19:24:17 +0000",
+      "carrot": "2025-03-03 05:16:43 +0000"
     },
     "done": false
   },
