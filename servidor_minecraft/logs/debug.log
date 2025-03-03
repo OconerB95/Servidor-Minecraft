@@ -2262,3 +2262,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Mar2025 05:50:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Crafting a New Look]
 [03Mar2025 05:51:45.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 05:51:45.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 05:56:45.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 05:56:45.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 06:00:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 withered away
+[03Mar2025 06:01:45.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 06:01:45.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
