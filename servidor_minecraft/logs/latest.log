@@ -282,3 +282,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Mar2025 04:40:30.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8957, l='ServerLevel[world]', x=4880.86, y=93.60, z=5032.03] died: Dinnerbone was shot by MaaurooSSJ
 [03Mar2025 04:40:32.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8264, l='ServerLevel[world]', x=4883.20, y=93.60, z=5030.85] died: Dinnerbone was shot by MaaurooSSJ
 [03Mar2025 04:40:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Spooky Scary Skeleton]
+[03Mar2025 04:59:19.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nachoF07 moved too quickly! -2.788351082141162,2.0741790732757295,-9.825924328835754
+[03Mar2025 04:59:22.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Mar2025 04:59:22.586] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Mar2025 04:59:22.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[03Mar2025 04:59:23.228] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Mar2025 04:59:25.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[03Mar2025 04:59:25.809] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[03Mar2025 04:59:25.941] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Mar2025 04:59:25.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[03Mar2025 05:00:51.411] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
