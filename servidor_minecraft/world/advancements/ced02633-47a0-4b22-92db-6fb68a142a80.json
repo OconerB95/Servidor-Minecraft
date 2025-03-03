@@ -3292,6 +3292,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-03-03 05:22:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-03-03 04:51:27 +0000"

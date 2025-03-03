@@ -459,7 +459,8 @@
       "baked_potato": "2025-02-16 03:19:15 +0000",
       "bread": "2025-02-16 03:05:41 +0000",
       "golden_apple": "2025-02-16 04:55:45 +0000",
-      "rotten_flesh": "2025-02-16 03:05:08 +0000"
+      "rotten_flesh": "2025-02-16 03:05:08 +0000",
+      "carrot": "2025-03-03 05:24:43 +0000"
     },
     "done": false
   },
@@ -3435,6 +3436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-03-03 04:31:42 +0000"
@@ -3474,6 +3481,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-03 04:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
     },
     "done": true
   },
@@ -3525,6 +3538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-03 04:50:56 +0000"
@@ -3552,6 +3571,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-03 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
     },
     "done": true
   },
@@ -3609,9 +3634,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-03 04:50:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-03-03 05:22:08 +0000"
     },
     "done": true
   },
@@ -3654,6 +3691,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-03-03 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
     },
     "done": true
   },
@@ -3711,6 +3754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-03 04:34:25 +0000"
@@ -3732,6 +3781,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-03-03 04:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
     },
     "done": true
   },
@@ -3762,6 +3817,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-03 04:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 05:31:11 +0000"
     },
     "done": true
   },
