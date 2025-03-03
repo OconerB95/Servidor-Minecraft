@@ -2175,3 +2175,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Mar2025 04:16:46.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 04:16:46.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 04:19:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Hidden in the Depths]
+[03Mar2025 04:21:45.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:21:45.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 04:26:45.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:26:45.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 04:31:45.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:31:45.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 04:34:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Hidden in the Depths]
+[03Mar2025 04:36:45.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:36:45.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 04:37:13.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8393, l='ServerLevel[world]', x=4869.65, y=98.60, z=5018.35] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:37:15.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8394, l='ServerLevel[world]', x=4868.54, y=98.60, z=5019.68] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:37:16.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8258, l='ServerLevel[world]', x=4869.50, y=98.60, z=5020.62] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:37:25.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8435, l='ServerLevel[world]', x=4867.22, y=98.60, z=5021.43] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:37:31.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8434, l='ServerLevel[world]', x=4866.46, y=98.60, z=5025.80] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:37:37.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8257, l='ServerLevel[world]', x=4865.35, y=98.60, z=5018.40] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:13.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8958, l='ServerLevel[world]', x=4886.87, y=93.60, z=5034.43] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:17.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8265, l='ServerLevel[world]', x=4884.67, y=93.60, z=5032.49] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:22.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8956, l='ServerLevel[world]', x=4882.25, y=93.60, z=5031.46] died: Dinnerbone was shot by Dinnerbone
+[03Mar2025 04:40:28.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8266, l='ServerLevel[world]', x=4880.08, y=93.60, z=5033.86] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:30.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8957, l='ServerLevel[world]', x=4880.86, y=93.60, z=5032.03] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:32.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8264, l='ServerLevel[world]', x=4883.20, y=93.60, z=5030.85] died: Dinnerbone was shot by MaaurooSSJ
+[03Mar2025 04:40:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Spooky Scary Skeleton]

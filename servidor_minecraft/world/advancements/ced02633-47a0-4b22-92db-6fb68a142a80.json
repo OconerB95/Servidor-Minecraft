@@ -447,6 +447,7 @@
       "minecraft:creeper": "2025-02-18 03:42:32 +0000",
       "minecraft:phantom": "2025-02-18 03:17:54 +0000",
       "minecraft:witch": "2025-02-18 03:03:15 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 04:22:18 +0000",
       "minecraft:husk": "2025-02-16 05:04:06 +0000",
       "minecraft:cave_spider": "2025-02-16 04:24:39 +0000",
       "minecraft:zombie": "2025-02-16 03:01:30 +0000"
@@ -3136,9 +3137,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-03 04:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-03 04:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-03-03 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-03 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-03 04:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-03 04:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-03 04:19:40 +0000"
     },
     "done": true
   },
