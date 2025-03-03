@@ -2267,3 +2267,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Mar2025 06:00:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 withered away
 [03Mar2025 06:01:45.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 06:01:45.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 06:06:21.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['MaaurooSSJ's Bat'/31830, l='ServerLevel[world]', x=2857.29, y=69.75, z=4098.35] died: MaaurooSSJ's Bat was shot by nachoF07
+[03Mar2025 06:06:45.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 06:06:45.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 06:10:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was shot by nachoF07
+[03Mar2025 06:10:49.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was blown up by Creeper
+[03Mar2025 06:11:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was blown up by Creeper
+[03Mar2025 06:11:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
+[03Mar2025 06:11:45.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 06:11:45.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 06:11:57.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
