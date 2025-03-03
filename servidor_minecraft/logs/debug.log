@@ -2197,3 +2197,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Mar2025 04:40:30.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8957, l='ServerLevel[world]', x=4880.86, y=93.60, z=5032.03] died: Dinnerbone was shot by MaaurooSSJ
 [03Mar2025 04:40:32.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/8264, l='ServerLevel[world]', x=4883.20, y=93.60, z=5030.85] died: Dinnerbone was shot by MaaurooSSJ
 [03Mar2025 04:40:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Spooky Scary Skeleton]
+[03Mar2025 04:41:45.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:41:45.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 04:46:45.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 04:46:45.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
