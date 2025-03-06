@@ -305,3 +305,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [06Mar2025 02:27:44.159] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [06Mar2025 02:27:47.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
 [06Mar2025 02:27:47.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved too quickly! 2.2020222592282153,-4.0,8.948199556984036
+[06Mar2025 02:36:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
+[06Mar2025 02:37:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was doomed to fall by Zombie
