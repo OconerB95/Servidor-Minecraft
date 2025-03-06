@@ -445,6 +445,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-18 00:42:11 +0000",
       "minecraft:skeleton": "2025-02-16 03:42:00 +0000",
+      "minecraft:magma_cube": "2025-03-06 02:14:21 +0000",
       "minecraft:spider": "2025-02-16 03:29:36 +0000",
       "minecraft:creeper": "2025-02-18 03:42:32 +0000",
       "minecraft:phantom": "2025-02-18 03:17:54 +0000",
@@ -3607,6 +3608,48 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-03 06:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-03-06 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-03-06 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-03-06 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-06 02:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-03-06 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 02:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-06 02:13:20 +0000"
     },
     "done": true
   },
