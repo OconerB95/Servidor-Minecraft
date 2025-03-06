@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-06 02:48:37 +0000",
       "minecraft:taiga": "2025-03-03 05:17:02 +0000",
       "minecraft:deep_ocean": "2025-03-03 05:15:14 +0000",
       "minecraft:cherry_grove": "2025-02-16 16:07:56 +0000",
@@ -44,6 +45,7 @@
       "minecraft:desert": "2025-02-22 02:00:06 +0000",
       "minecraft:jungle": "2025-02-16 03:06:06 +0000",
       "minecraft:ocean": "2025-02-18 01:01:41 +0000",
+      "minecraft:flower_forest": "2025-03-06 02:56:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 02:45:51 +0000",
       "minecraft:meadow": "2025-02-16 20:00:28 +0000",
       "minecraft:savanna": "2025-02-16 03:44:31 +0000",
@@ -614,6 +616,7 @@
       "pumpkin_pie": "2025-02-16 20:49:36 +0000",
       "bread": "2025-02-16 04:23:45 +0000",
       "golden_apple": "2025-02-22 02:26:21 +0000",
+      "cookie": "2025-03-06 02:54:28 +0000",
       "salmon": "2025-02-22 01:58:10 +0000",
       "melon_slice": "2025-02-16 03:05:00 +0000",
       "cooked_chicken": "2025-02-16 19:24:17 +0000",
@@ -3629,15 +3632,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-06 02:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-06 02:13:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 02:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-03-06 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 02:45:41 +0000"
     },
     "done": true
   },

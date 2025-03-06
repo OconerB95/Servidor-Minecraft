@@ -2214,3 +2214,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [06Mar2025 02:35:44.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Mar2025 02:36:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was shot by Skeleton
 [06Mar2025 02:37:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was doomed to fall by Zombie
+[06Mar2025 02:40:44.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:40:44.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 02:44:14.251] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[06Mar2025 02:44:57.276] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2071, 93, 4875 in dimension 'minecraft:overworld'
+[06Mar2025 02:44:59.479] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2077, 92, 4871 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:00.626] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2066, 93, 4871 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:01.426] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 91, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:02.226] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 92, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:03.077] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2066, 93, 4870 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:04.511] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 90, 4872 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:05.326] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 90, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:06.227] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 90, 4874 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:07.176] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2065, 93, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:07.975] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2066, 90, 4874 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:08.776] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2071, 94, 4871 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:09.575] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2072, 94, 4871 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:10.374] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2070, 94, 4872 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:14.027] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2066, 92, 4874 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:15.084] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2071, 94, 4872 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:15.875] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2072, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:16.676] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2073, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:17.475] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2064, 91, 4871 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:18.282] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2064, 91, 4872 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:19.077] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2071, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:27.976] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2072, 94, 4872 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:28.777] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2070, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:29.626] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2073, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:30.528] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2070, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:31.427] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2072, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:32.376] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 2072, 94, 4873 in dimension 'minecraft:overworld'
+[06Mar2025 02:45:44.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:45:44.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 02:46:28.561] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[06Mar2025 02:46:39.061] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06Mar2025 02:46:54.592] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[06Mar2025 02:48:53.986] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06Mar2025 02:48:54.826] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[06Mar2025 02:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[06Mar2025 02:50:44.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:50:44.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 02:53:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nachoF07> q
+[06Mar2025 02:54:13.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/14320, l='ServerLevel[world]', x=990.34, y=52.00, z=4921.50] died: Drunken Villager was slain by MaaurooSSJ
+[06Mar2025 02:54:21.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/14513, l='ServerLevel[world]', x=996.14, y=52.00, z=4921.13] died: Drunken Villager was slain by MaaurooSSJ
+[06Mar2025 02:54:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Drunken Villager
+[06Mar2025 02:54:40.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 was slain by Drunken Villager
+[06Mar2025 02:55:44.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:55:44.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 02:56:44.996] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06Mar2025 03:00:44.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:00:44.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
