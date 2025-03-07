@@ -290,3 +290,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [07Mar2025 01:21:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 has made the advancement [Renai Circulation]
 [07Mar2025 01:24:10.872] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [07Mar2025 01:28:12.669] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[07Mar2025 02:20:21.054] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
