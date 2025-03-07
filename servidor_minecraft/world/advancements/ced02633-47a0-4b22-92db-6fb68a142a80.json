@@ -3675,6 +3675,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2025-03-07 01:21:23 +0000"
+    },
+    "done": true
+  },
   "endrem:main/black_eye": {
     "criteria": {
       "black_eye": "2025-03-07 01:10:02 +0000"
