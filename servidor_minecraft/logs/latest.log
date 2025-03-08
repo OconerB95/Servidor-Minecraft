@@ -275,3 +275,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [08Mar2025 02:25:00.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
 [08Mar2025 02:27:40.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/9991, l='ServerLevel[world]', x=3457.70, y=67.00, z=4717.33] died, message: 'Fisherman was slain by Zombie'
 [08Mar2025 02:27:46.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10016, l='ServerLevel[world]', x=3457.34, y=67.00, z=4717.70] died, message: 'Unemployed was slain by Zombie'
+[08Mar2025 02:46:45.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10000, l='ServerLevel[world]', x=3413.70, y=77.00, z=4735.48] died, message: 'Librarian was slain by nachoF07'
