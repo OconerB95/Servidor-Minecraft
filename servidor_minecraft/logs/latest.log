@@ -260,3 +260,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [08Mar2025 01:20:28.747] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
 [08Mar2025 01:26:52.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nachoF07> z
 [08Mar2025 01:29:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [What a Deal!]
+[08Mar2025 01:49:52.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MaaurooSSJ> en donde pusite en los parches
+[08Mar2025 02:00:26.043] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Mar2025 02:00:26.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Mar2025 02:00:26.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
