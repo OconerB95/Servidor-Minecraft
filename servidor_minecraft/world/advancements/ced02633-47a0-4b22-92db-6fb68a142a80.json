@@ -3675,39 +3675,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_plague_asylum": {
-    "criteria": {
-      "location0": "2025-03-07 01:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-03-07 02:35:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-03-07 02:35:50 +0000"
-    },
-    "done": true
-  },
   "endrem:main/black_eye": {
     "criteria": {
       "black_eye": "2025-03-07 01:10:02 +0000"
     },
     "done": true
   },
-  "endrem:main/cryptic_eye": {
+  "dungeons_arise:find_plague_asylum": {
     "criteria": {
-      "cryptic_eye": "2025-03-07 02:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-03-07 02:35:50 +0000"
+      "location0": "2025-03-07 01:21:23 +0000"
     },
     "done": true
   },
@@ -3717,13 +3693,19 @@
     },
     "done": true
   },
-  "endrem:main/old_eye": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "old_eye": "2025-03-07 02:46:37 +0000"
+      "has_polished_andesite": "2025-03-07 01:34:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-07 01:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-03-07 01:34:43 +0000"
     },
@@ -3741,15 +3723,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_polished_andesite": "2025-03-07 01:34:43 +0000"
+      "has_kelp": "2025-03-07 02:35:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_polished_andesite": "2025-03-07 01:34:43 +0000"
+      "has_kelp": "2025-03-07 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-07 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2025-03-07 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-03-07 02:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-08 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-08 01:27:09 +0000"
     },
     "done": true
   },
