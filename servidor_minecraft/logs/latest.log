@@ -264,3 +264,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [08Mar2025 02:00:26.043] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [08Mar2025 02:00:26.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [08Mar2025 02:00:26.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Mar2025 02:10:05.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nachoF07 lost connection: Disconnected
+[08Mar2025 02:10:05.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 left the game
+[08Mar2025 02:10:09.254] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player nachoF07 is ced02633-47a0-4b22-92db-6fb68a142a80
+[08Mar2025 02:10:11.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nachoF07[/127.205.245.216:54205] logged in with entity id 9984 at (3411.805578834842, 76.0, 4736.409498472918)
+[08Mar2025 02:10:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nachoF07 joined the game
+[08Mar2025 02:10:11.099] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to nachoF07
+[08Mar2025 02:10:11.099] [Server thread/INFO] [Jade/]: Syncing config to nachoF07 (ced02633-47a0-4b22-92db-6fb68a142a80)
+[08Mar2025 02:10:11.316] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from nachoF07
+[08Mar2025 02:25:00.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[08Mar2025 02:27:40.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/9991, l='ServerLevel[world]', x=3457.70, y=67.00, z=4717.33] died, message: 'Fisherman was slain by Zombie'
+[08Mar2025 02:27:46.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10016, l='ServerLevel[world]', x=3457.34, y=67.00, z=4717.70] died, message: 'Unemployed was slain by Zombie'
