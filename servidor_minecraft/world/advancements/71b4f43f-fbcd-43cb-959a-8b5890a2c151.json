@@ -3689,6 +3689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 05:05:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -3989,6 +3995,12 @@
     },
     "done": true
   },
+  "minecraft:main/ulugh": {
+    "criteria": {
+      "killed_ulugh": "2025-06-03 05:10:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 03:23:33 +0000"
@@ -4079,6 +4091,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/dried_kelp_block_slab": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-03 05:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-06-03 03:23:39 +0000"
@@ -4118,6 +4136,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-03 05:06:08 +0000"
     },
     "done": true
   },
@@ -4226,6 +4250,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-06-03 04:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-03 05:05:50 +0000"
     },
     "done": true
   },
@@ -4370,6 +4400,12 @@
   "undergarden:recipes/transportation/smogstem_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-03 05:05:50 +0000"
     },
     "done": true
   },
@@ -4536,6 +4572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-03 05:06:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-06-03 02:29:41 +0000"
@@ -4629,6 +4671,12 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 05:05:43 +0000"
     },
     "done": true
   },
@@ -4737,6 +4785,12 @@
   "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
     "criteria": {
       "has_diamond_block": "2025-06-03 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
+    "criteria": {
+      "has_mulberry": "2025-06-03 05:05:52 +0000"
     },
     "done": true
   },
@@ -5184,6 +5238,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 05:05:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -5229,6 +5289,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-03 05:06:06 +0000"
     },
     "done": true
   },
@@ -5283,6 +5349,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-06-03 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-03 05:06:06 +0000"
     },
     "done": true
   },
@@ -5406,6 +5478,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-03 05:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
@@ -5463,6 +5541,13 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-03 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 05:05:43 +0000",
+      "has_the_recipe": "2025-06-03 05:05:43 +0000"
     },
     "done": true
   },
@@ -5601,6 +5686,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 05:05:43 +0000"
     },
     "done": true
   },

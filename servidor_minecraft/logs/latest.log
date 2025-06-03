@@ -2484,3 +2484,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 05:03:38.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56669, l='ServerLevel[world]', x=-371.50, y=73.00, z=401.50]
 [03Jun2025 05:03:55.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56782, l='ServerLevel[world]', x=-369.50, y=74.00, z=387.50]
 [03Jun2025 05:04:39.184] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 05:06:06.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Hunt and Gather]
+[03Jun2025 05:08:07.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58241, l='ServerLevel[world]', x=-245.50, y=74.00, z=340.50]
+[03Jun2025 05:08:26.929] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[03Jun2025 05:08:26.943] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[03Jun2025 05:09:01.630] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 05:10:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [How Do You Say This?]
+[03Jun2025 05:11:53.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59917, l='ServerLevel[world]', x=-372.50, y=73.00, z=403.50]
+[03Jun2025 05:12:16.784] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []

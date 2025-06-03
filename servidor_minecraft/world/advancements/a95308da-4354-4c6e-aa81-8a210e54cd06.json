@@ -4182,6 +4182,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-06-03 05:06:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-06-03 04:05:50 +0000"
@@ -4371,6 +4377,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-03 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 05:12:13 +0000"
     },
     "done": true
   },
@@ -4623,6 +4635,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-06-03 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 05:12:13 +0000"
     },
     "done": true
   },
@@ -5401,6 +5419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 05:12:13 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-06-03 02:39:22 +0000"
@@ -5416,6 +5440,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 05:12:13 +0000"
     },
     "done": true
   },
