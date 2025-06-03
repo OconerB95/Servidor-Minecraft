@@ -498,6 +498,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-06-02 04:02:52 +0000",
+      "old_growth_woodland": "2025-06-03 03:54:05 +0000",
       "mediterranean_forest": "2025-06-02 04:40:54 +0000",
       "dryland": "2025-06-02 04:36:17 +0000",
       "wasteland": "2025-06-02 04:55:43 +0000"
