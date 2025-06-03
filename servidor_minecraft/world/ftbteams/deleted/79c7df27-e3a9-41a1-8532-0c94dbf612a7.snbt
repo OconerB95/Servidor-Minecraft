@@ -1,0 +1,15 @@
+{
+	id: "79c7df27-e3a9-41a1-8532-0c94dbf612a7"
+	type: "party"
+	owner: "a95308da-4354-4c6e-aa81-8a210e54cd06"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "NOMADES IV"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
