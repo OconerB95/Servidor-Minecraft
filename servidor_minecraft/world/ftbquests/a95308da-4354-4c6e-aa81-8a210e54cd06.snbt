@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a95308da43544c6eaa818a210e54cd06"
+	name: "MaaurooSSJ#a95308da"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

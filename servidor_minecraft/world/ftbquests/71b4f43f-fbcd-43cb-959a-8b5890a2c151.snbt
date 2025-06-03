@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "71b4f43ffbcd43cb959a8b5890a2c151"
+	name: "toxico845#71b4f43f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

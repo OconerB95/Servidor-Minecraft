@@ -1,0 +1,17 @@
+{
+	id: "a95308da-4354-4c6e-aa81-8a210e54cd06"
+	type: "player"
+	player_name: "MaaurooSSJ"
+	ranks: {
+		a95308da-4354-4c6e-aa81-8a210e54cd06: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MaaurooSSJ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#77FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
