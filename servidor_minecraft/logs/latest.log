@@ -1448,3 +1448,26 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 01:58:39.488] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player toxico845
 [03Jun2025 01:58:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 joined the game
 [03Jun2025 01:58:39.651] [Server thread/INFO] [Jade/]: Syncing config to toxico845 (71b4f43f-fbcd-43cb-959a-8b5890a2c151)
+[03Jun2025 02:05:01.501] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3039, l='ServerLevel[world]', x=0.50, y=22.00, z=826.50] as it would cause deadlock
+[03Jun2025 02:05:01.628] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3041, l='ServerLevel[world]', x=-7.50, y=22.00, z=826.50] as it would cause deadlock
+[03Jun2025 02:05:05.756] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3098, l='ServerLevel[world]', x=88.50, y=-28.00, z=834.50] as it would cause deadlock
+[03Jun2025 02:05:05.760] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-17, z=843}
+[03Jun2025 02:05:05.761] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-17, z=843}
+[03Jun2025 02:05:05.792] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3103, l='ServerLevel[world]', x=72.50, y=-3.00, z=835.50] as it would cause deadlock
+[03Jun2025 02:05:08.564] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3142, l='ServerLevel[world]', x=134.50, y=22.00, z=862.50] as it would cause deadlock
+[03Jun2025 02:05:08.586] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3144, l='ServerLevel[world]', x=126.50, y=22.00, z=862.50] as it would cause deadlock
+[03Jun2025 02:05:09.625] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-10, y=21, z=860}
+[03Jun2025 02:05:09.625] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11, y=21, z=859}
+[03Jun2025 02:05:09.625] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-10, y=21, z=860}
+[03Jun2025 02:05:09.625] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11, y=21, z=859}
+[03Jun2025 02:05:11.662] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3212, l='ServerLevel[world]', x=171.50, y=22.00, z=873.50] as it would cause deadlock
+[03Jun2025 02:05:11.934] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3214, l='ServerLevel[world]', x=88.50, y=-28.00, z=864.50] as it would cause deadlock
+[03Jun2025 02:05:12.279] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-50, z=876}
+[03Jun2025 02:05:12.280] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-50, z=876}
+[03Jun2025 02:05:15.554] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3255, l='ServerLevel[world]', x=80.50, y=-3.00, z=893.50] as it would cause deadlock
+[03Jun2025 02:05:15.793] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=138, y=10, z=895}
+[03Jun2025 02:05:15.794] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=138, y=10, z=895}
+[03Jun2025 02:07:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Smashing Success]
+[03Jun2025 02:07:15.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[03Jun2025 02:07:18.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 02:12:18.225] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
