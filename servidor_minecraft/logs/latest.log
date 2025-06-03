@@ -1475,3 +1475,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 02:21:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Pic-A-Nic Basket?]
 [03Jun2025 02:22:18.214] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [03Jun2025 02:22:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Pic-A-Nic Basket?]
+[03Jun2025 02:24:18.541] [Server thread/WARN] [tombstone/]: The death event of the player MaaurooSSJ was canceled by another mod
+[03Jun2025 02:24:18.543] [Server thread/INFO] [tombstone/]: The player MaaurooSSJ has successfully been saved
+[03Jun2025 02:24:53.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Not Today, Thank You]
+[03Jun2025 02:24:57.178] [Server thread/WARN] [tombstone/]: The death event of the player MaaurooSSJ was canceled by another mod
+[03Jun2025 02:24:57.189] [Server thread/INFO] [tombstone/]: The player MaaurooSSJ has successfully been saved
+[03Jun2025 02:25:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Ambush]
+[03Jun2025 02:25:35.033] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:25:35.033] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:25:35.034] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:25:35.034] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:25:35.035] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:25:35.036] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:25:35.036] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:25:35.036] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:25:35.037] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:25:35.038] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:25:35.038] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:25:35.039] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:27:07.283] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
