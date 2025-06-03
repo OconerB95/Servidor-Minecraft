@@ -1250,6 +1250,7 @@
       "minecraft:skeleton": "2025-06-02 04:38:38 +0000",
       "minecraft:spider": "2025-06-02 04:41:53 +0000",
       "minecraft:creeper": "2025-06-03 02:51:46 +0000",
+      "minecraft:cave_spider": "2025-06-03 05:20:23 +0000",
       "minecraft:zombie": "2025-06-02 04:07:03 +0000",
       "minecraft:drowned": "2025-06-02 04:47:43 +0000"
     },
@@ -1782,7 +1783,9 @@
     "criteria": {
       "cooked_porkchop": "2025-06-03 02:36:40 +0000",
       "cooked_beef": "2025-06-03 04:21:05 +0000",
+      "baked_potato": "2025-06-03 05:17:37 +0000",
       "salmon": "2025-06-03 04:21:52 +0000",
+      "cooked_chicken": "2025-06-03 05:14:53 +0000",
       "chicken": "2025-06-02 04:10:33 +0000",
       "cooked_mutton": "2025-06-03 03:13:15 +0000",
       "apple": "2025-06-03 03:08:45 +0000",
@@ -3557,6 +3560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-03 04:51:32 +0000"
@@ -3605,6 +3614,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-06-03 05:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
@@ -3632,6 +3647,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -3674,6 +3695,12 @@
   "undergarden:recipes/transportation/grongle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -3722,6 +3749,12 @@
   "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
     "criteria": {
       "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -3794,6 +3827,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -3965,6 +4004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-03 05:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-03 03:27:18 +0000"
@@ -4046,6 +4091,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-03 05:20:52 +0000"
     },
     "done": true
   },
@@ -4289,6 +4340,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_green": {
     "criteria": {
       "has_dirt": "2025-06-03 04:35:53 +0000"
@@ -4313,6 +4370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-03 05:19:37 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-06-03 02:59:36 +0000"
@@ -4322,6 +4385,12 @@
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 03:16:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -4415,6 +4484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "interact": "2025-06-03 02:22:21 +0000"
@@ -4430,6 +4505,12 @@
   "betterarcheology:recipes/recipe_diamond_brush": {
     "criteria": {
       "has_item": "2025-06-03 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -4551,6 +4632,12 @@
     "criteria": {
       "has_the_recipe": "2025-06-03 02:49:03 +0000",
       "has_diamond": "2025-06-03 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -4950,6 +5037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-03 05:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-03 02:49:03 +0000"
@@ -4968,6 +5061,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 05:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 02:44:59 +0000"
@@ -4983,6 +5082,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -5199,6 +5304,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
@@ -5935,6 +6046,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-03 05:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-03 02:51:47 +0000"
@@ -5944,6 +6061,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:21:15 +0000"
     },
     "done": true
   },
