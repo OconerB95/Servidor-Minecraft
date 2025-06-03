@@ -1780,7 +1780,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-03 02:36:40 +0000",
-      "chicken": "2025-06-02 04:10:33 +0000"
+      "chicken": "2025-06-02 04:10:33 +0000",
+      "apple": "2025-06-03 03:08:45 +0000",
+      "rotten_flesh": "2025-06-03 03:09:19 +0000"
     },
     "done": false
   },
@@ -3560,6 +3562,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 02:44:59 +0000"
@@ -3593,6 +3601,12 @@
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
     },
     "done": true
   },
@@ -3641,6 +3655,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-03 02:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
     },
     "done": true
   },
@@ -3725,6 +3745,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 02:14:35 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
     },
     "done": true
   },
@@ -3956,6 +3982,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -4056,6 +4100,12 @@
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-03 03:10:56 +0000"
     },
     "done": true
   },
@@ -4767,6 +4817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
@@ -4800,6 +4856,12 @@
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
     },
     "done": true
   },

@@ -1975,3 +1975,196 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 03:02:19.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21881, l='ServerLevel[world]', x=-637.50, y=72.00, z=545.50]
 [03Jun2025 03:02:24.774] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [03Jun2025 03:03:42.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22440, l='ServerLevel[world]', x=-595.50, y=73.00, z=598.50]
+[03Jun2025 03:05:43.339] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:05:52.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['.'/23381, l='ServerLevel[world]', x=-325.50, y=82.69, z=747.50] died: . suffocated in a wall
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.282] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.283] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.328] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.329] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 03:05:53.336] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 03:05:53.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[03Jun2025 03:06:12.988] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:06:17.911] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:06:34.101] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:07:09.187] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:08:32.472] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26065, l='ServerLevel[world]', x=-536.50, y=71.00, z=668.50]
+[03Jun2025 03:08:51.523] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26163, l='ServerLevel[world]', x=-535.50, y=71.00, z=670.50]
+[03Jun2025 03:10:54.051] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:11:03.572] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27029, l='ServerLevel[world]', x=-424.50, y=70.00, z=386.50]
+[03Jun2025 03:11:06.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27059, l='ServerLevel[world]', x=-461.50, y=75.00, z=376.50]
+[03Jun2025 03:12:24.789] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:12:32.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27540, l='ServerLevel[world]', x=-442.50, y=74.00, z=371.50]
+[03Jun2025 03:12:55.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27597, l='ServerLevel[world]', x=-464.50, y=73.00, z=377.50]
+[03Jun2025 03:13:21.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27718, l='ServerLevel[world]', x=-463.50, y=73.00, z=376.50]
+[03Jun2025 03:13:26.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27735, l='ServerLevel[world]', x=-442.50, y=74.00, z=370.50]
+[03Jun2025 03:13:36.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27782, l='ServerLevel[world]', x=-441.50, y=74.00, z=369.50]
