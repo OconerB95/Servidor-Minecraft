@@ -508,6 +508,7 @@
     "criteria": {
       "minecraft:beach": "2025-06-02 04:03:58 +0000",
       "minecraft:river": "2025-06-02 04:10:48 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-03 04:55:41 +0000",
       "minecraft:savanna": "2025-06-02 04:20:17 +0000"
     },
     "done": false
@@ -3916,6 +3917,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 04:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -4520,6 +4527,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-06-03 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-03 04:57:39 +0000"
     },
     "done": true
   },
@@ -5186,6 +5199,12 @@
   "iceandfire:recipes/combat/armor_silver_metal_helmet": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:17:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 04:57:44 +0000"
     },
     "done": true
   },

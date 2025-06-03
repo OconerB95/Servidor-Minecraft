@@ -2466,3 +2466,21 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 04:39:59.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=68, z=507} BlockPos{x=-636, y=68, z=507}
 [03Jun2025 04:40:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Cover Me with Diamonds]
 [03Jun2025 04:47:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Cover Me with Diamonds]
+[03Jun2025 04:56:38.228] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[03Jun2025 04:56:38.242] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[03Jun2025 04:57:03.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54722, l='ServerLevel[world]', x=-815.50, y=76.00, z=488.50]
+[03Jun2025 04:57:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has reached the goal [Strong or Careful]
+[03Jun2025 04:57:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 was slain by Heavy Knight
+[03Jun2025 04:57:39.550] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[03Jun2025 04:57:39.550] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[03Jun2025 04:57:39.551] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[03Jun2025 04:57:39.551] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[03Jun2025 04:57:39.553] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Jun2025 04:57:39.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [The Most Useful Key]
+[03Jun2025 04:57:44.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has reached the goal [A Fast Comeback]
+[03Jun2025 04:58:03.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55222, l='ServerLevel[world]', x=-751.50, y=74.00, z=332.50]
+[03Jun2025 04:58:11.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55258, l='ServerLevel[world]', x=-751.50, y=72.00, z=355.50]
+[03Jun2025 04:59:41.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55671, l='ServerLevel[world]', x=-772.50, y=72.00, z=494.50]
+[03Jun2025 05:03:38.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56669, l='ServerLevel[world]', x=-371.50, y=73.00, z=401.50]
+[03Jun2025 05:03:55.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56782, l='ServerLevel[world]', x=-369.50, y=74.00, z=387.50]
+[03Jun2025 05:04:39.184] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
