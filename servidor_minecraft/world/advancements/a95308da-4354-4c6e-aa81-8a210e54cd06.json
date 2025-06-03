@@ -3696,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 02:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-03 02:11:00 +0000"
@@ -3786,6 +3792,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "interact": "2025-06-03 02:21:31 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_white": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -3795,6 +3807,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_pink": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 02:20:59 +0000"
     },
     "done": true
   },
@@ -3831,6 +3849,12 @@
   "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 02:20:59 +0000"
     },
     "done": true
   },
@@ -3876,15 +3900,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 02:20:59 +0000",
+      "has_the_recipe": "2025-06-03 02:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_light_grey.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 02:20:59 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 02:20:59 +0000"
     },
     "done": true
   },
