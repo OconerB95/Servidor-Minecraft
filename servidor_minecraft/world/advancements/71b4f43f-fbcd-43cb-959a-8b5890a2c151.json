@@ -1785,6 +1785,7 @@
       "chicken": "2025-06-02 04:10:33 +0000",
       "cooked_mutton": "2025-06-03 03:13:15 +0000",
       "apple": "2025-06-03 03:08:45 +0000",
+      "bread": "2025-06-03 04:40:19 +0000",
       "rotten_flesh": "2025-06-03 03:09:19 +0000",
       "cooked_salmon": "2025-06-03 04:16:41 +0000",
       "carrot": "2025-06-03 04:30:24 +0000"
@@ -3357,6 +3358,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -3429,6 +3436,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_orange": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-06-03 02:49:03 +0000"
@@ -3495,6 +3508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_yellow.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
@@ -3516,6 +3535,18 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-06-03 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-03 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_grey": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -3597,6 +3628,18 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_red": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_brown": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
@@ -3624,6 +3667,12 @@
   "undergarden:recipes/transportation/grongle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_magenta": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -3753,6 +3802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_orange.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -3768,6 +3823,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-03 03:35:12 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_cyan": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -3891,6 +3952,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 03:23:33 +0000"
@@ -3951,6 +4018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_cyan.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-03 03:27:57 +0000"
@@ -3966,6 +4039,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-03 03:26:44 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_blue": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4065,6 +4144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_pink.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -4074,6 +4159,12 @@
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_magenta.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4107,9 +4198,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_green": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-06-03 02:14:25 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4140,6 +4243,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_black": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4242,6 +4351,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_white": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_pink": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4408,6 +4529,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 04:40:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
@@ -4456,6 +4583,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_lime": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-06-03 03:34:49 +0000"
@@ -4465,6 +4598,12 @@
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 04:42:22 +0000"
     },
     "done": true
   },
@@ -4483,6 +4622,12 @@
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_blue": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4555,6 +4700,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4633,6 +4784,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-06-03 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -4810,6 +4967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat": {
     "criteria": {
       "crab_meat": "2025-06-03 03:31:41 +0000"
@@ -4882,6 +5045,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_purple": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -4942,6 +5111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_lime.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-03 03:34:39 +0000"
@@ -4984,6 +5159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 04:42:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:15:55 +0000"
@@ -5011,6 +5192,18 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-06-03 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_green.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -5077,6 +5270,12 @@
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_light_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -5158,6 +5357,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-06-03 02:29:42 +0000"
@@ -5200,6 +5405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_white.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-06-03 02:51:47 +0000"
@@ -5227,6 +5438,12 @@
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-06-03 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_purple.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -5266,9 +5483,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_black.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_brown.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },
@@ -5281,6 +5510,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-06-03 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 04:40:04 +0000"
     },
     "done": true
   },
@@ -5299,6 +5534,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_red.json": {
+    "criteria": {
+      "has_dirt": "2025-06-03 04:35:53 +0000"
     },
     "done": true
   },

@@ -2461,3 +2461,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 04:29:33.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Hot Stuff]
 [03Jun2025 04:30:07.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47870, l='ServerLevel[world]', x=-524.50, y=73.00, z=679.50]
 [03Jun2025 04:30:46.038] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 04:38:18.576] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[03Jun2025 04:38:18.584] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[03Jun2025 04:39:59.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=68, z=507} BlockPos{x=-636, y=68, z=507}
+[03Jun2025 04:40:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Cover Me with Diamonds]

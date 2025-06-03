@@ -3666,6 +3666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-03 02:58:21 +0000"
@@ -3990,6 +3996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-06-03 04:05:31 +0000"
@@ -4071,6 +4083,12 @@
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 04:40:25 +0000"
     },
     "done": true
   },
@@ -4188,6 +4206,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/acacia_log_slab": {
+    "criteria": {
+      "has_acacia_log": "2025-06-03 04:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_cyan.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -4242,6 +4266,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/jungle_log_slab": {
+    "criteria": {
+      "has_jungle_log": "2025-06-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 02:42:48 +0000"
@@ -4281,6 +4311,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-03 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:25 +0000"
     },
     "done": true
   },
@@ -4440,6 +4476,7 @@
       "cooked_beef": "2025-06-03 02:39:32 +0000",
       "cooked_chicken": "2025-06-03 02:32:25 +0000",
       "cooked_mutton": "2025-06-03 02:32:18 +0000",
+      "bread": "2025-06-03 04:41:11 +0000",
       "carrot": "2025-06-03 04:21:12 +0000"
     },
     "done": false
@@ -4493,6 +4530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-03 04:40:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-06-03 02:51:23 +0000"
@@ -4538,6 +4581,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-03 04:05:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 04:40:17 +0000"
     },
     "done": true
   },
@@ -4631,6 +4680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 04:40:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:48:47 +0000"
@@ -4658,6 +4713,12 @@
   "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-06-03 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:35 +0000"
     },
     "done": true
   },
@@ -4736,6 +4797,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-06-03 04:40:36 +0000"
     },
     "done": true
   },
@@ -5051,6 +5118,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-06-03 02:23:20 +0000"
@@ -5132,6 +5205,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:36 +0000"
     },
     "done": true
   },
@@ -5226,6 +5305,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-06-03 02:51:23 +0000"
@@ -5280,6 +5365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-03 02:39:22 +0000"
@@ -5328,6 +5419,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:40:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-06-03 04:03:50 +0000"
@@ -5349,6 +5446,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-06-03 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 04:40:17 +0000"
     },
     "done": true
   },
