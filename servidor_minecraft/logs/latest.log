@@ -2428,3 +2428,19 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 03:58:28.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
 [03Jun2025 03:58:28.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
 [03Jun2025 03:58:28.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[03Jun2025 04:20:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Take Aim]
+[03Jun2025 04:20:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Chompy]
+[03Jun2025 04:20:15.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44513, l='ServerLevel[world]', x=-206.50, y=74.00, z=345.50]
+[03Jun2025 04:20:38.277] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[03Jun2025 04:20:38.286] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[03Jun2025 04:20:41.522] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44664, l='ServerLevel[world]', x=-206.50, y=74.00, z=344.50]
+[03Jun2025 04:20:53.678] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[03Jun2025 04:20:53.688] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[03Jun2025 04:22:04.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45015, l='ServerLevel[world]', x=-213.50, y=70.00, z=323.50]
+[03Jun2025 04:22:09.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45065, l='ServerLevel[world]', x=-373.50, y=73.00, z=403.50]
+[03Jun2025 04:22:24.758] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 04:22:33.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45383, l='ServerLevel[world]', x=-465.50, y=73.00, z=377.50]
+[03Jun2025 04:22:34.972] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45385, l='ServerLevel[world]', x=-403.50, y=74.00, z=411.50]
+[03Jun2025 04:22:45.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45629, l='ServerLevel[world]', x=-367.50, y=74.00, z=388.50]
+[03Jun2025 04:23:19.244] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 04:24:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Spiked Nugget]
