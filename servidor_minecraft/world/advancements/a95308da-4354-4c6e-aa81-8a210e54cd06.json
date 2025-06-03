@@ -3678,6 +3678,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-06-03 02:26:05 +0000"
@@ -3804,6 +3816,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-03 04:47:25 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_grey": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -3861,6 +3879,18 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-03 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4038,6 +4068,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_orange.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -4059,6 +4095,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-03 04:26:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4170,9 +4212,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4221,6 +4275,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-03 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4347,6 +4407,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_black": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-03 04:49:44 +0000"
     },
     "done": true
   },
@@ -4491,6 +4557,12 @@
     "criteria": {
       "has_the_recipe": "2025-06-03 02:45:22 +0000",
       "has_diamond": "2025-06-03 02:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4650,6 +4722,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 04:42:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:48:47 +0000"
@@ -4701,6 +4779,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-06-03 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -4764,9 +4848,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-03 04:46:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-03 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -5124,6 +5232,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 04:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-06-03 02:23:20 +0000"
@@ -5214,6 +5334,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-03 02:39:21 +0000"
@@ -5230,6 +5356,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-06-03 03:16:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },
@@ -5323,6 +5455,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_white.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -5401,6 +5539,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_black.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
@@ -5437,6 +5581,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-06-03 04:05:12 +0000"
@@ -5470,6 +5626,12 @@
   "minecraft:recipes/decorations/dirt_washed_red.json": {
     "criteria": {
       "has_dirt": "2025-06-03 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-03 04:42:34 +0000"
     },
     "done": true
   },

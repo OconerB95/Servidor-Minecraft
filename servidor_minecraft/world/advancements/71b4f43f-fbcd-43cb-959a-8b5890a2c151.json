@@ -3556,6 +3556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -3676,6 +3682,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -3769,6 +3781,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-03 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -3952,6 +3970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
     "criteria": {
       "has_dirt": "2025-06-03 04:35:53 +0000"
@@ -4084,6 +4108,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -4138,6 +4168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
@@ -4174,6 +4216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 04:52:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
@@ -4183,6 +4231,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4210,6 +4264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/soil": {
     "criteria": {
       "has_wood": "2025-06-03 04:35:53 +0000"
@@ -4231,6 +4291,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4285,6 +4351,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-03 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4354,9 +4426,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_white": {
     "criteria": {
       "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4405,6 +4489,12 @@
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4472,6 +4562,24 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 04:52:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4583,9 +4691,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_lime": {
     "criteria": {
       "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4631,6 +4751,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 02:44:59 +0000"
@@ -4673,6 +4799,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 03:23:33 +0000"
@@ -4682,6 +4820,12 @@
   "iceandfire:recipes/tools/silver_axe": {
     "criteria": {
       "has_the_recipe": "2025-06-03 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -4745,6 +4889,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-03 04:46:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-03 03:26:44 +0000"
@@ -4754,6 +4904,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-03 04:42:44 +0000"
     },
     "done": true
   },
@@ -4859,6 +5015,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-06-03 02:53:22 +0000"
@@ -4916,6 +5078,12 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:14:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -5099,6 +5267,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-06-03 02:49:03 +0000"
@@ -5126,6 +5300,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-03 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -5249,6 +5429,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 02:44:59 +0000"
@@ -5327,6 +5513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:53:22 +0000"
@@ -5360,6 +5552,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
     "criteria": {
       "has_dirt": "2025-06-03 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-03 04:52:01 +0000"
     },
     "done": true
   },
@@ -5465,6 +5663,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
@@ -5480,6 +5690,18 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-03 02:14:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
@@ -5504,6 +5726,18 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-06-03 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-03 04:51:32 +0000"
     },
     "done": true
   },
