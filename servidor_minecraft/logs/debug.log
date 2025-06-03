@@ -18236,3 +18236,432 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 02:32:18.214] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [03Jun2025 02:32:18.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 02:32:18.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 02:34:48.599] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-344, y=-29, z=412}
+[03Jun2025 02:34:48.599] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-344, y=-29, z=412}
+[03Jun2025 02:34:48.599] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=-30, z=400}
+[03Jun2025 02:34:48.600] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=-30, z=400}
+[03Jun2025 02:34:48.625] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=-30, z=399}
+[03Jun2025 02:34:48.625] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=-30, z=399}
+[03Jun2025 02:34:48.656] [Worker-Main-10/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 02:34:52.686] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[03Jun2025 02:34:52.693] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[03Jun2025 02:34:52.698] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[03Jun2025 02:34:52.707] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[03Jun2025 02:34:56.733] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 02:34:58.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Best Friends Forever]
+[03Jun2025 02:35:31.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [We do a little trolling...]
+[03Jun2025 02:35:46.713] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[03Jun2025 02:35:52.279] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[03Jun2025 02:35:52.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[03Jun2025 02:35:52.283] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[03Jun2025 02:35:52.286] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[03Jun2025 02:35:52.286] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[03Jun2025 02:35:52.287] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[03Jun2025 02:35:52.293] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[03Jun2025 02:35:52.296] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[03Jun2025 02:35:52.300] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[03Jun2025 02:35:52.305] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[03Jun2025 02:35:52.309] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[03Jun2025 02:35:52.313] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[03Jun2025 02:36:02.590] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[03Jun2025 02:36:02.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[03Jun2025 02:36:02.595] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[03Jun2025 02:36:02.598] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[03Jun2025 02:36:02.598] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[03Jun2025 02:36:02.599] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[03Jun2025 02:36:02.599] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[03Jun2025 02:36:44.614] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/15609, l='ServerLevel[world]', x=-426.50, y=-53.00, z=340.50] as it would cause deadlock
+[03Jun2025 02:36:48.891] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:36:48.891] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:36:48.892] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:36:48.893] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:36:48.893] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:36:48.893] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:36:48.893] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:37:11.552] [Worker-Main-36/DEBUG] [ModernFix/]: Structure additionalstructures:stone_circle_3 is being run through DFU (hash d23b9b6d44c64347b259bba71f7407a54bc117237f265e0c6bf26a3131688316), this will cause launch time delays
+[03Jun2025 02:37:12.256] [Worker-Main-36/DEBUG] [ModernFix/]: Structure additionalstructures:stone_circle_2 is being run through DFU (hash 3721c3e2ea9f904698b77c567779a8b2aeaa61302bc27e2f96446cf0700c9696), this will cause launch time delays
+[03Jun2025 02:37:12.267] [Worker-Main-36/DEBUG] [ModernFix/]: Structure additionalstructures:stone_circle_1 is being run through DFU (hash 9cf632222d509c569ccb6b46657c7da980629d750079a7c908fa5e1d08092172), this will cause launch time delays
+[03Jun2025 02:37:14.880] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[03Jun2025 02:37:18.203] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Jun2025 02:37:18.210] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Jun2025 02:37:18.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 02:37:18.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 02:37:41.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [The Graceful Raptor]
+[03Jun2025 02:38:33.457] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[03Jun2025 02:38:33.459] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[03Jun2025 02:38:34.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved too quickly! 0.3423436427922866,2.419999986886978,10.073308465683795
+[03Jun2025 02:38:34.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[03Jun2025 02:39:30.341] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[03Jun2025 02:39:39.903] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[03Jun2025 02:39:39.907] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[03Jun2025 02:39:47.787] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[03Jun2025 02:39:48.756] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[03Jun2025 02:39:48.761] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[03Jun2025 02:39:48.765] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[03Jun2025 02:39:48.769] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[03Jun2025 02:39:48.772] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[03Jun2025 02:39:48.776] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[03Jun2025 02:39:48.780] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[03Jun2025 02:39:50.163] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:39:50.163] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:39:50.163] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:39:50.163] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[03Jun2025 02:39:50.164] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[03Jun2025 02:39:50.165] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[03Jun2025 02:39:50.165] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Jun2025 02:39:50.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: toxico845 moved too quickly! -5.095013131891847,0.504799122994072,-8.904758282192745
+[03Jun2025 02:39:50.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved too quickly! -7.8460967324507465,1.4199999868869781,-6.49481930197237
+[03Jun2025 02:39:50.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[03Jun2025 02:40:03.488] [Worker-Main-10/DEBUG] [ModernFix/]: Structure additionalstructures:flotsam_4 is being run through DFU (hash 85cb948899195c3a893cc5d5511436667b9124c3fd9c3f2f410e6f34b120f54f), this will cause launch time delays
+[03Jun2025 02:40:15.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16742, l='ServerLevel[world]', x=-442.50, y=74.00, z=369.50]
+[03Jun2025 02:41:00.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['.'/16683, l='ServerLevel[world]', x=-660.50, y=52.69, z=459.50] died: . suffocated in a wall
+[03Jun2025 02:41:01.119] [Server thread/DEBUG] [ModernFix/]: Structure medieval_craft_structures:castelo is being run through DFU (hash a7351e66edb5060e7c1b9ccabf2f65ec789ba8ac38135f6b7baee8e71424dfa7), this will cause launch time delays
+[03Jun2025 02:41:03.053] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.053] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.053] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.054] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.055] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.058] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.059] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.061] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.063] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.064] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.065] [Server thread/DEBUG] [ModernFix/]: Structure medieval_craft_structures:army is being run through DFU (hash 00f75fbced6e33e942c8aa40c3a17a78b73ca8ac24796420d09614482bdfb875), this will cause launch time delays
+[03Jun2025 02:41:03.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[03Jun2025 02:41:03.342] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.342] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.342] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.343] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.343] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.343] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.344] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.344] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.344] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.345] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.345] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.345] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.345] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.351] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.351] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.351] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.352] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.352] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.352] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.353] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.355] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.355] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.355] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.358] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.358] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.359] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.359] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.359] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.360] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redtankknight
+[03Jun2025 02:41:03.360] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.360] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.361] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.361] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.361] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.362] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.362] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.362] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.363] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.363] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.364] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.364] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.364] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.365] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.365] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.365] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.366] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[03Jun2025 02:41:03.366] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.366] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[03Jun2025 02:41:03.367] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[03Jun2025 02:41:03.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[03Jun2025 02:41:03.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[03Jun2025 02:41:03.407] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mixins.redirected_forge_1.20.1.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[03Jun2025 02:41:03.408] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[03Jun2025 02:41:03.408] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[03Jun2025 02:41:03.408] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod radium: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[03Jun2025 02:41:03.409] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.redirected_forge_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/core/Direction; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod radium->@Redirect::removeAllocation()[Lnet/minecraft/core/Direction; with priority 1000
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2_forge(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V doesn't use it's CallbackInfoReturnable
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2_forge(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V has 0 override(s) in child classes
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2_forge(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V won't be passed a CallbackInfoReturnable as a result
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V doesn't use it's CallbackInfoReturnable
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V has 0 override(s) in child classes
+[03Jun2025 02:41:03.410] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V won't be passed a CallbackInfoReturnable as a result
+[03Jun2025 02:41:42.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17257, l='ServerLevel[world]', x=-425.50, y=74.00, z=382.50]
+[03Jun2025 02:42:10.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17335, l='ServerLevel[world]', x=-601.50, y=72.00, z=447.50]
+[03Jun2025 02:42:24.764] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Jun2025 02:42:24.770] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Jun2025 02:42:24.771] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Jun2025 02:42:24.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 02:42:24.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
