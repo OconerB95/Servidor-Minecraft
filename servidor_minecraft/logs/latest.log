@@ -2197,3 +2197,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 03:27:24.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [03Jun2025 03:30:33.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30909, l='ServerLevel[world]', x=-440.50, y=74.00, z=369.50]
 [03Jun2025 03:31:23.243] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[03Jun2025 03:35:26.078] [Server thread/WARN] [tombstone/]: The death event of the player MaaurooSSJ was canceled by another mod
+[03Jun2025 03:35:26.094] [Server thread/INFO] [tombstone/]: The player MaaurooSSJ has successfully been saved
+[03Jun2025 03:37:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Spiked Nugget]
+[03Jun2025 03:37:17.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32705, l='ServerLevel[world]', x=-525.50, y=73.00, z=681.50]
+[03Jun2025 03:37:19.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32710, l='ServerLevel[world]', x=-537.50, y=71.00, z=669.50]
+[03Jun2025 03:40:58.242] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []

@@ -4493,6 +4493,12 @@
     },
     "done": true
   },
+  "minecraft:main/kentro": {
+    "criteria": {
+      "killed_kentro": "2025-06-03 03:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-03 02:42:24 +0000"
