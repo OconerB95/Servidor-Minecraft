@@ -1475,3 +1475,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 03:52:12.655] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
 [05Jun2025 03:52:12.655] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
 [05Jun2025 03:52:35.948] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:58:34.469] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[05Jun2025 03:58:34.470] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 03:58:34.470] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 03:58:34.470] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 03:58:34.470] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 03:58:34.471] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 03:58:34.471] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 03:58:34.471] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 03:58:34.471] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 03:58:34.472] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 03:58:34.472] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:04:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[05Jun2025 04:06:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Quite the Renovation]
+[05Jun2025 04:06:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Simple Dungeon Room]
