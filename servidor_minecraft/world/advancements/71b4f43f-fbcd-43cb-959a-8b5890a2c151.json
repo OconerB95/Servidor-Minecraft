@@ -6896,6 +6896,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 04:46:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_leggings": {
     "criteria": {
       "has_item": "2025-06-05 04:20:35 +0000"
@@ -6947,6 +6953,12 @@
   "mobdropsrecipes_overworld:recipes/misc/rotten_flesh": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/egg": {
+    "criteria": {
+      "raptor_egg": "2025-06-05 04:44:44 +0000"
     },
     "done": true
   },
@@ -7091,6 +7103,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-06-05 04:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/embryo": {
+    "criteria": {
+      "megath_embryo": "2025-06-05 04:53:35 +0000"
     },
     "done": true
   },
