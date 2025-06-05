@@ -1589,3 +1589,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 04:30:44.711] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32140, l='ServerLevel[world]', x=-773.50, y=72.00, z=494.50]
 [05Jun2025 04:30:51.885] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [05Jun2025 04:32:41.927] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 04:42:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Its Time to Cook Jesse]
+[05Jun2025 04:44:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [E G G S]
+[05Jun2025 04:46:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has reached the goal [Bone Crusher]
+[05Jun2025 04:48:27.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35916, l='ServerLevel[world]', x=-368.50, y=72.00, z=381.50]
+[05Jun2025 04:48:28.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35923, l='ServerLevel[world]', x=-437.50, y=73.00, z=367.50]
