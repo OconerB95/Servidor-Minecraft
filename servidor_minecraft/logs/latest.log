@@ -1448,3 +1448,12 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 03:21:40.773] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player toxico845
 [05Jun2025 03:21:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 joined the game
 [05Jun2025 03:21:40.877] [Server thread/INFO] [Jade/]: Syncing config to toxico845 (71b4f43f-fbcd-43cb-959a-8b5890a2c151)
+[05Jun2025 03:28:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Unusual Botany]
+[05Jun2025 03:31:20.028] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:33:39.517] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:34:21.810] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4437, l='ServerLevel[world]', x=-379.50, y=74.00, z=341.50]
+[05Jun2025 03:34:40.497] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:35:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has completed the challenge [Unusual Park]
+[05Jun2025 03:37:00.980] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:37:09.275] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 03:37:29.126] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
