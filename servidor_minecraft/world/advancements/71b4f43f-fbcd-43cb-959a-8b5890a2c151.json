@@ -6729,6 +6729,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-06-05 04:14:56 +0000"
@@ -6762,6 +6768,12 @@
   "mobdropsrecipes_overworld:recipes/misc/gunpowder": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-05 05:15:00 +0000"
     },
     "done": true
   },
@@ -6837,15 +6849,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_slime_ball": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
     "criteria": {
       "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
     },
     "done": true
   },
@@ -6891,6 +6921,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_rotten_flesh": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
@@ -6921,6 +6957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-05 04:41:24 +0000"
@@ -6932,6 +6974,12 @@
       "phantom": "2025-06-05 05:00:04 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
@@ -6966,6 +7014,12 @@
   "minecraft:main/egg": {
     "criteria": {
       "raptor_egg": "2025-06-05 04:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
     },
     "done": true
   },
@@ -7083,6 +7137,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-06-05 03:42:16 +0000"
@@ -7143,9 +7203,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-05 05:13:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
     },
     "done": true
   },
@@ -7200,6 +7272,12 @@
   "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
     },
     "done": true
   },
