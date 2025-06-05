@@ -1640,3 +1640,37 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 05:17:14.210] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42120, l='ServerLevel[world]', x=-734.50, y=72.00, z=291.50]
 [05Jun2025 05:17:27.210] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42145, l='ServerLevel[world]', x=-772.50, y=73.00, z=343.50]
 [05Jun2025 05:18:27.860] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42499, l='ServerLevel[world]', x=-876.50, y=74.00, z=494.50]
+[05Jun2025 05:18:54.259] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42653, l='ServerLevel[world]', x=-809.50, y=72.00, z=507.50]
+[05Jun2025 05:20:53.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43181, l='ServerLevel[world]', x=-875.50, y=72.00, z=467.50]
+[05Jun2025 05:21:01.416] [Server thread/WARN] [tombstone/]: The death event of the player MaaurooSSJ was canceled by another mod
+[05Jun2025 05:21:01.429] [Server thread/INFO] [tombstone/]: The player MaaurooSSJ has successfully been saved
+[05Jun2025 05:21:04.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43229, l='ServerLevel[world]', x=-876.50, y=72.00, z=469.50]
+[05Jun2025 05:21:07.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43233, l='ServerLevel[world]', x=-711.50, y=73.00, z=301.50]
+[05Jun2025 05:21:51.715] [Server thread/WARN] [tombstone/]: The death event of the player toxico845 was canceled by another mod
+[05Jun2025 05:21:51.728] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[05Jun2025 05:21:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 drowned
+[05Jun2025 05:21:59.191] [Server thread/INFO] [tombstone/]: The player toxico845 has successfully been saved
+[05Jun2025 05:22:00.588] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[05Jun2025 05:22:00.589] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[05Jun2025 05:22:00.589] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[05Jun2025 05:22:00.589] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[05Jun2025 05:22:00.592] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jun2025 05:22:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has reached the goal [Strong or Careful]
+[05Jun2025 05:22:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ was slain by Heavy Knight
+[05Jun2025 05:22:03.227] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[05Jun2025 05:22:03.227] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[05Jun2025 05:22:03.227] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[05Jun2025 05:22:03.228] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[05Jun2025 05:22:03.228] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jun2025 05:22:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has reached the goal [Here They Come]
+[05Jun2025 05:23:11.109] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44110, l='ServerLevel[world]', x=-802.50, y=71.00, z=360.50]
+[05Jun2025 05:23:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has reached the goal [Here They Come]
+[05Jun2025 05:24:18.111] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44423, l='ServerLevel[world]', x=-875.50, y=74.00, z=496.50]
+[05Jun2025 05:25:29.815] [Server thread/WARN] [tombstone/]: The death event of the player MaaurooSSJ was canceled by another mod
+[05Jun2025 05:25:29.829] [Server thread/INFO] [tombstone/]: The player MaaurooSSJ has successfully been saved
+[05Jun2025 05:27:13.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44944, l='ServerLevel[world]', x=-876.50, y=72.00, z=467.50]
+[05Jun2025 05:27:37.710] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45050, l='ServerLevel[world]', x=-875.50, y=74.00, z=494.50]
+[05Jun2025 05:27:40.809] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45067, l='ServerLevel[world]', x=-892.50, y=73.00, z=493.50]
+[05Jun2025 05:27:46.060] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45094, l='ServerLevel[world]', x=-801.50, y=71.00, z=360.50]
+[05Jun2025 05:27:58.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45124, l='ServerLevel[world]', x=-876.50, y=74.00, z=495.50]
+[05Jun2025 05:28:26.118] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.redirected_forge_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/core/Direction; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod radium->@Redirect::removeAllocation()[Lnet/minecraft/core/Direction; with priority 1000

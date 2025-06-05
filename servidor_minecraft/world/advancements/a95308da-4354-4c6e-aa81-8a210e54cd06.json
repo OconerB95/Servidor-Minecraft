@@ -6426,6 +6426,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:22:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
@@ -6819,6 +6825,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-05 04:34:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:22:58 +0000"
     },
     "done": true
   },
