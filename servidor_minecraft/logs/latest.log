@@ -1489,3 +1489,85 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 04:04:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [The Power of the Abyss in the Palm of My Hand...]
 [05Jun2025 04:06:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Quite the Renovation]
 [05Jun2025 04:06:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Simple Dungeon Room]
+[05Jun2025 04:09:38.296] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:09:38.297] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:09:38.297] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:09:38.297] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:09:38.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:09:38.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:09:38.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:09:38.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:09:38.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:09:38.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:09:38.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:09:38.304] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:28.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['.'/17296, l='ServerLevel[world]', x=-600.50, y=58.69, z=969.50] died: . suffocated in a wall
+[05Jun2025 04:10:29.432] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.433] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.433] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[05Jun2025 04:10:29.433] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.433] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.433] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[05Jun2025 04:10:29.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.438] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.439] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.439] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.485] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[05Jun2025 04:10:29.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.486] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.490] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.490] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.490] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[05Jun2025 04:10:29.490] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.490] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.491] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.491] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.491] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.491] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:10:29.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[05Jun2025 04:10:29.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[05Jun2025 04:10:29.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[05Jun2025 04:10:29.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[05Jun2025 04:14:05.812] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[05Jun2025 04:14:05.815] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:14:05.815] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:14:05.816] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:14:05.816] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:14:05.817] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:14:05.817] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:14:05.818] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:14:05.818] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:14:05.819] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:14:05.819] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:15:53.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: toxico845 moved too quickly! 6.784191179191225,2.252203340253729,7.196423717701009
+[05Jun2025 04:15:53.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaaurooSSJ moved too quickly! -9.43753185649291,-2.645106700651638,2.977990405606022
+[05Jun2025 04:15:53.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind
+[05Jun2025 04:17:09.485] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[05Jun2025 04:17:09.486] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:17:09.486] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:17:09.486] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[05Jun2025 04:17:09.487] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier

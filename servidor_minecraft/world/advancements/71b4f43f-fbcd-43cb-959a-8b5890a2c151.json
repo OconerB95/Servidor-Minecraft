@@ -433,6 +433,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-06-02 04:02:33 +0000",
+      "old_growth_woodland": "2025-06-05 04:13:37 +0000",
       "mediterranean_forest": "2025-06-02 04:41:08 +0000",
       "dryland": "2025-06-02 04:36:41 +0000"
     },
@@ -509,6 +510,7 @@
       "minecraft:beach": "2025-06-02 04:03:58 +0000",
       "minecraft:river": "2025-06-02 04:10:48 +0000",
       "minecraft:lukewarm_ocean": "2025-06-03 04:55:41 +0000",
+      "minecraft:forest": "2025-06-05 04:09:41 +0000",
       "minecraft:savanna": "2025-06-02 04:20:17 +0000"
     },
     "done": false
@@ -6725,6 +6727,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-05 04:06:39 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-05 03:42:16 +0000"
@@ -6734,6 +6748,18 @@
   "minecraft:main/amber_fossil": {
     "criteria": {
       "amber_fossil": "2025-06-05 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/opal_fossil": {
+    "criteria": {
+      "opal_fossil": "2025-06-05 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
     },
     "done": true
   },
@@ -6758,6 +6784,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-06-05 04:06:36 +0000"
     },
     "done": true
   },
