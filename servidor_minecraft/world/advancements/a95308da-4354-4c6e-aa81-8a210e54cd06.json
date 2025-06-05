@@ -6105,6 +6105,12 @@
     },
     "done": true
   },
+  "seafarer:recipes/misc/blue_dye_from_sea_holly": {
+    "criteria": {
+      "has_flower": "2025-06-05 03:37:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:04 +0000"
@@ -6126,6 +6132,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-05 03:35:19 +0000"
     },
     "done": true
   },
@@ -6162,6 +6174,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-06-05 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 03:35:19 +0000"
     },
     "done": true
   },
@@ -6222,6 +6240,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-06-05 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_oak_log_slab": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-05 03:35:19 +0000"
     },
     "done": true
   },
