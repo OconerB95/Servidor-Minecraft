@@ -3562,6 +3562,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-06-02 04:58:41 +0000",
+      "wheat": "2025-06-05 04:22:10 +0000",
+      "melon": "2025-06-05 04:23:08 +0000",
       "carrot": "2025-06-03 04:13:54 +0000"
     },
     "done": false
@@ -6123,6 +6125,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:04 +0000"
@@ -6189,9 +6197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-05 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6243,6 +6263,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
@@ -6264,6 +6290,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6363,6 +6395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
@@ -6405,6 +6443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
@@ -6438,6 +6482,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6525,6 +6575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-06-05 03:51:26 +0000"
@@ -6576,6 +6632,12 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6660,6 +6722,12 @@
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-05 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6807,6 +6875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-05 04:04:03 +0000"
@@ -6840,6 +6914,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-05 03:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
@@ -6909,9 +6989,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-05 04:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:15:04 +0000"
     },
     "done": true
   },
