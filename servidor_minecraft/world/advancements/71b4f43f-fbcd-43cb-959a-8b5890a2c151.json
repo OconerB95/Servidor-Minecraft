@@ -6723,6 +6723,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/totem_of_undying": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
@@ -6759,9 +6771,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-05 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_axe": {
     "criteria": {
       "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-05 05:34:43 +0000"
     },
     "done": true
   },
@@ -6807,9 +6843,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-05 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -6843,6 +6891,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_spider_eye": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
@@ -6858,6 +6918,12 @@
   "mobdropsrecipes_overworld:recipes/misc/essence_into_slime_ball": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -6969,6 +7035,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-06-05 05:00:04 +0000"
@@ -7023,6 +7095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 05:34:02 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/string": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
@@ -7065,6 +7143,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-06-05 04:06:24 +0000"
@@ -7104,6 +7188,24 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -7173,6 +7275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 05:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-06-05 04:14:56 +0000"
@@ -7191,6 +7299,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/surface_moss": {
     "criteria": {
       "has_moss_block": "2025-06-05 03:42:16 +0000"
@@ -7203,9 +7317,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gunpowder": {
     "criteria": {
       "has_the_recipe": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -7245,6 +7371,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-05 04:17:12 +0000"
@@ -7269,6 +7401,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "seafarer:recipes/building_blocks/spiky_shell_bricks": {
     "criteria": {
       "has_spiky_shell": "2025-06-05 03:22:58 +0000"
@@ -7278,6 +7416,18 @@
   "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
     "criteria": {
       "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -7293,9 +7443,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-05 05:34:43 +0000"
     },
     "done": true
   },
