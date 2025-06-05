@@ -514,7 +514,9 @@
       "minecraft:river": "2025-06-02 04:10:48 +0000",
       "minecraft:lukewarm_ocean": "2025-06-03 04:55:41 +0000",
       "minecraft:forest": "2025-06-05 04:09:41 +0000",
-      "minecraft:savanna": "2025-06-02 04:20:17 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-06-05 04:25:20 +0000",
+      "minecraft:savanna": "2025-06-02 04:20:17 +0000",
+      "minecraft:plains": "2025-06-05 04:23:48 +0000"
     },
     "done": false
   },
