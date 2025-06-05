@@ -2708,6 +2708,7 @@
       "minecraft:skeleton": "2025-06-03 02:22:28 +0000",
       "minecraft:spider": "2025-06-02 04:41:18 +0000",
       "minecraft:creeper": "2025-06-03 02:12:04 +0000",
+      "minecraft:phantom": "2025-06-05 04:59:58 +0000",
       "minecraft:cave_spider": "2025-06-03 05:20:39 +0000",
       "minecraft:zombie": "2025-06-02 04:47:46 +0000"
     },
@@ -6563,6 +6564,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 04:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-05 03:59:06 +0000"
@@ -6640,6 +6647,12 @@
       "has_mossy_cobblestone": "2025-06-05 03:59:06 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-05 04:59:58 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
