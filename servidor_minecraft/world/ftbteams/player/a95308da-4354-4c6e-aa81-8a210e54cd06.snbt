@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "MaaurooSSJ"
 		"ftbteams:description": ""
-		"ftbteams:color": "#77FF59"
+		"ftbteams:color": "#FFA759"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

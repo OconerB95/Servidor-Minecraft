@@ -1,14 +1,14 @@
 {
   "attributes": {
-    "obscure_api:penetration": {
+    "forge:attack_range": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 1024,
+        "value": 10000000
       }
     },
     "forge:step_height_addition": {
@@ -19,7 +19,7 @@
       },
       "max": {
         "default": 512,
-        "value": 512
+        "value": 10000000
       }
     },
     "minecraft:generic.follow_range": {
@@ -30,18 +30,18 @@
       },
       "max": {
         "default": 2048,
-        "value": 2048
+        "value": 10000000
       }
     },
-    "obscure_api:dodge": {
+    "cold_sweat:base_temperature_offset": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -150,
+        "value": -150
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 150,
+        "value": 10000000
       }
     },
     "forge:nametag_distance": {
@@ -52,10 +52,10 @@
       },
       "max": {
         "default": 64,
-        "value": 64
+        "value": 10000000
       }
     },
-    "reach-entity-attributes:reach": {
+    "cold_sweat:burning_point_offset": {
       "enabled": false,
       "min": {
         "default": -1024,
@@ -63,7 +63,18 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
+      }
+    },
+    "puffish_skills:player.mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
     "forge:entity_gravity": {
@@ -74,51 +85,62 @@
       },
       "max": {
         "default": 8,
-        "value": 8
+        "value": 10000000
       }
     },
-    "forge:block_reach": {
+    "cold_sweat:core_temperature_offset": {
+      "enabled": false,
+      "min": {
+        "default": -150,
+        "value": -150
+      },
+      "max": {
+        "default": 150,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:base_temperature": {
+      "enabled": false,
+      "min": {
+        "default": -150,
+        "value": -150
+      },
+      "max": {
+        "default": 150,
+        "value": 10000000
+      }
+    },
+    "puffish_skills:player.ranged_damage": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
-    "obscure_api:resilience": {
+    "enhancedai:generic.xray_follow_range": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 256,
+        "value": 10000000
       }
     },
-    "obscure_api:regeneration": {
+    "cold_sweat:heat_resistance": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100000,
-        "value": 100000
-      }
-    },
-    "obscure_api:parry": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
+        "default": 1,
+        "value": 10000000
       }
     },
     "minecraft:generic.attack_speed": {
@@ -129,7 +151,7 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
       }
     },
     "minecraft:generic.attack_damage": {
@@ -140,7 +162,18 @@
       },
       "max": {
         "default": 2048,
-        "value": 1000000
+        "value": 10000000
+      }
+    },
+    "dietarystatistics:maxfood": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
       }
     },
     "minecraft:generic.luck": {
@@ -151,7 +184,29 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
+      }
+    },
+    "puffish_skills:player.stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:world_temperature": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
       }
     },
     "minecraft:generic.armor": {
@@ -162,62 +217,51 @@
       },
       "max": {
         "default": 30,
-        "value": 1000000
+        "value": 10000000
       }
     },
-    "obscure_api:critical_hit": {
+    "puffish_skills:player.melee_damage": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
-    "forge:entity_reach": {
+    "puffish_skills:player.fortune": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
-    "obscure_api:magic_resistance": {
+    "puffish_skills:player.healing": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
-    "galosphere:illager_resistance": {
+    "puffish_skills:player.jump": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "obscure_api:magic_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100000,
-        "value": 100000
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
     "minecraft:generic.flying_speed": {
@@ -228,18 +272,51 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
       }
     },
-    "obscure_api:healing_power": {
+    "forge:reach_distance": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:cold_dampening": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1,
+        "value": 10000000
+      }
+    },
+    "diet:natural_regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:core_temperature": {
+      "enabled": false,
+      "min": {
+        "default": -150,
+        "value": -150
+      },
+      "max": {
+        "default": 150,
+        "value": 10000000
       }
     },
     "minecraft:generic.movement_speed": {
@@ -250,10 +327,21 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
       }
     },
-    "caelus:fall_flying": {
+    "cold_sweat:freezing_point_offset": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:cold_resistance": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -261,18 +349,18 @@
       },
       "max": {
         "default": 1,
-        "value": 1
+        "value": 10000000
       }
     },
-    "obscure_api:critical_damage": {
+    "puffish_skills:player.resistance": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
     "minecraft:generic.max_health": {
@@ -283,7 +371,51 @@
       },
       "max": {
         "default": 1024,
-        "value": 1000000
+        "value": 10000000
+      }
+    },
+    "cold_sweat:heat_dampening": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1,
+        "value": 10000000
+      }
+    },
+    "cold_sweat:burning_point": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "puffish_skills:player.sprinting_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
+      }
+    },
+    "puffish_skills:player.knockback": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 10000000
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -294,7 +426,7 @@
       },
       "max": {
         "default": 1,
-        "value": 1
+        "value": 10000000
       }
     },
     "minecraft:horse.jump_strength": {
@@ -305,7 +437,7 @@
       },
       "max": {
         "default": 2,
-        "value": 2
+        "value": 10000000
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -316,7 +448,18 @@
       },
       "max": {
         "default": 5,
-        "value": 1000000
+        "value": 10000000
+      }
+    },
+    "cold_sweat:freezing_point": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
       }
     },
     "forge:swim_speed": {
@@ -327,7 +470,7 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
+        "value": 10000000
       }
     },
     "minecraft:generic.knockback_resistance": {
@@ -338,7 +481,7 @@
       },
       "max": {
         "default": 1,
-        "value": 1
+        "value": 10000000
       }
     },
     "minecraft:generic.armor_toughness": {
@@ -349,10 +492,10 @@
       },
       "max": {
         "default": 20,
-        "value": 1000000
+        "value": 10000000
       }
     },
-    "reach-entity-attributes:attack_range": {
+    "cold_sweat:world_temperature_offset": {
       "enabled": false,
       "min": {
         "default": -1024,
@@ -360,18 +503,7 @@
       },
       "max": {
         "default": 1024,
-        "value": 1024
-      }
-    },
-    "obscure_api:accuracy": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
+        "value": 10000000
       }
     }
   }
