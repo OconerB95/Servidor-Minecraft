@@ -1541,3 +1541,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [07Jun2025 02:52:26.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of toxico845) moved wrongly! 0.5811123984767619
 [07Jun2025 02:52:26.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of toxico845) moved wrongly! 0.7468162935504097
 [07Jun2025 02:52:49.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6719, l='ServerLevel[world]', x=-979.50, y=74.00, z=523.50]
+[07Jun2025 02:55:09.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Tie me to the Mast]
+[07Jun2025 02:55:28.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Sea? Not a Problem]
+[07Jun2025 02:56:45.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/8025, l='ServerLevel[world]', x=-1474.30, y=11.00, z=161.20] died, message: 'Fisherman discovered the floor was lava'
+[07Jun2025 02:56:58.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Barrel Booty]
+[07Jun2025 02:56:59.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Disme A Dozen]
+[07Jun2025 02:57:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Magic Writing]
+[07Jun2025 02:57:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Disme A Dozen]
+[07Jun2025 02:58:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Close Quarters]
+[07Jun2025 03:00:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Close Quarters]
+[07Jun2025 03:00:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Where Is The Stone Pen?]
+[07Jun2025 03:02:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Simple Dungeon Room]
+[07Jun2025 03:03:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Penteconter]
+[07Jun2025 03:03:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Your First Receptacle]
+[07Jun2025 03:03:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [Your First Receptacle]
+[07Jun2025 03:04:00.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaaurooSSJ has made the advancement [Penteconter]
+[07Jun2025 03:05:36.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: toxico845 has made the advancement [What a Deal!]
+[07Jun2025 03:11:34.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MaaurooSSJ) moved wrongly! 0.27331235056453806
+[07Jun2025 03:11:35.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MaaurooSSJ) moved wrongly! 0.38822145256517615
+[07Jun2025 03:11:35.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MaaurooSSJ) moved wrongly! 0.5228134836095251
