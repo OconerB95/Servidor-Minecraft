@@ -436,6 +436,7 @@
       "old_growth_woodland": "2025-06-05 04:13:37 +0000",
       "mediterranean_forest": "2025-06-02 04:41:08 +0000",
       "dryland": "2025-06-02 04:36:41 +0000",
+      "redwood_forest": "2025-06-07 03:28:13 +0000",
       "rocky_rainforest": "2025-06-05 04:15:30 +0000",
       "rainforest": "2025-06-05 04:14:11 +0000"
     },
@@ -509,12 +510,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-06-07 03:26:23 +0000",
       "minecraft:deep_ocean": "2025-06-07 02:53:08 +0000",
       "minecraft:bamboo_jungle": "2025-06-05 04:19:46 +0000",
       "minecraft:beach": "2025-06-02 04:03:58 +0000",
       "minecraft:river": "2025-06-02 04:10:48 +0000",
       "minecraft:lukewarm_ocean": "2025-06-03 04:55:41 +0000",
       "minecraft:forest": "2025-06-05 04:09:41 +0000",
+      "minecraft:ocean": "2025-06-07 03:14:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-05 04:25:20 +0000",
       "minecraft:savanna": "2025-06-02 04:20:17 +0000",
       "minecraft:plains": "2025-06-05 04:23:48 +0000"
@@ -7486,6 +7489,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-06-07 03:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-06-07 02:58:48 +0000"
@@ -7504,15 +7513,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-07 03:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-06-07 03:00:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-06-07 03:18:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-06-07 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-07 03:18:10 +0000"
     },
     "done": true
   },
@@ -7537,6 +7564,12 @@
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-06-07 02:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-07 03:18:28 +0000"
     },
     "done": true
   },
@@ -7570,6 +7603,18 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-06-07 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-07 03:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-07 03:00:08 +0000"
@@ -7579,6 +7624,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-07 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-07 03:15:10 +0000"
     },
     "done": true
   },
@@ -7624,6 +7675,24 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-06-07 03:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-07 03:18:28 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/polished_basalt_slab": {
+    "criteria": {
+      "has_polished_basalt": "2025-06-07 03:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-07 03:00:08 +0000"
@@ -7639,6 +7708,12 @@
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2025-06-07 02:55:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-07 03:16:50 +0000"
     },
     "done": true
   },
@@ -7660,9 +7735,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-07 03:15:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-06-07 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-07 03:14:48 +0000"
     },
     "done": true
   },
@@ -7720,6 +7807,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-06-07 03:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-07 03:05:36 +0000"
@@ -7750,9 +7843,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-07 03:18:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-07 02:57:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-06-07 03:14:48 +0000"
     },
     "done": true
   },
