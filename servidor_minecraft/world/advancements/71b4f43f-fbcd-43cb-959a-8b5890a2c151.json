@@ -6723,27 +6723,105 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+  "seafarer:recipes/combat/spiky_sword": {
     "criteria": {
-      "has_sign": "2025-06-05 05:28:45 +0000"
+      "has_spiky_shell": "2025-06-05 03:22:58 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+  "seafarer:recipes/building_blocks/spiky_shell_bricks": {
     "criteria": {
-      "has_sign": "2025-06-05 05:28:45 +0000"
+      "has_spiky_shell": "2025-06-05 03:22:58 +0000"
     },
     "done": true
   },
-  "mobdropsrecipes_overworld:recipes/misc/totem_of_undying": {
+  "minecraft:main/plants": {
     "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
+      "anostylostroma_flask": "2025-06-05 03:28:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "minecraft:main/amber_fossil": {
     "criteria": {
-      "has_item": "2025-06-05 05:15:00 +0000"
+      "amber_fossil": "2025-06-05 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-05 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-05 03:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/opal_fossil": {
+    "criteria": {
+      "opal_fossil": "2025-06-05 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-06-05 04:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-05 04:06:39 +0000"
     },
     "done": true
   },
@@ -6753,15 +6831,117 @@
     },
     "done": true
   },
-  "mobdropsrecipes_overworld:recipes/misc/spider_eye": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
+      "has_melon": "2025-06-05 04:14:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
+      "has_melon": "2025-06-05 04:14:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-05 04:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-05 04:14:56 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-06-05 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-06-05 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-05 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-05 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-05 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-05 04:22:30 +0000"
     },
     "done": true
   },
@@ -6771,9 +6951,369 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
-      "has_poppy": "2025-06-05 05:34:43 +0000"
+      "has_wheat": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-06-05 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-05 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-05 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-05 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/totem_of_undying": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/prismarine_shard": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/trident": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/string": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_string": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/ender_pearl": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/overworld_essence_uncommon": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/prismarine_crystals": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
+    "criteria": {
+      "has_common_essence": "2025-06-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-05 04:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/cultivator": {
+    "criteria": {
+      "cultivator": "2025-06-05 04:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/egg": {
+    "criteria": {
+      "raptor_egg": "2025-06-05 04:44:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/embryo": {
+    "criteria": {
+      "megath_embryo": "2025-06-05 04:53:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-05 05:00:04 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-05 05:13:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:23:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
@@ -6789,105 +7329,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-05 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-06-05 05:15:00 +0000"
-    },
-    "done": true
-  },
-  "seafarer:recipes/combat/spiky_sword": {
-    "criteria": {
-      "has_spiky_shell": "2025-06-05 03:22:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-06-05 04:22:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-06-05 04:14:56 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-05 04:38:23 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-05 04:38:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough": {
-    "criteria": {
-      "has_wheat": "2025-06-05 04:22:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-06-05 04:06:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-06-05 04:22:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
     },
     "done": true
   },
@@ -6903,135 +7353,9 @@
     },
     "done": true
   },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_spider_eye": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-05 05:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-05 04:38:23 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/prismarine_shard": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-06-05 04:14:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-06-05 05:15:01 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-05 04:46:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
-    },
-    "done": false
-  },
-  "mobdropsrecipes_overworld:recipes/misc/trident": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-05 05:15:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
     },
     "done": true
   },
@@ -7041,153 +7365,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-06-05 05:00:04 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2025-06-05 05:15:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-06-05 04:14:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/cultivator": {
-    "criteria": {
-      "cultivator": "2025-06-05 04:42:20 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/egg": {
-    "criteria": {
-      "raptor_egg": "2025-06-05 04:44:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-05 05:34:02 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/string": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_string": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-05 04:22:34 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/amber_fossil": {
-    "criteria": {
-      "amber_fossil": "2025-06-05 03:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/opal_fossil": {
-    "criteria": {
-      "opal_fossil": "2025-06-05 04:04:23 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-06-05 04:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-06-05 04:22:32 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/ender_pearl": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-06-05 05:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-06-05 04:22:32 +0000"
     },
     "done": true
   },
@@ -7209,111 +7389,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-06-05 04:41:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2025-06-05 04:17:12 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/overworld_essence_uncommon": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2025-06-05 04:22:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-06-05 05:15:00 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/prismarine_crystals": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-06-05 03:54:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_the_recipe": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-06-05 05:34:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-06-05 04:14:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/embryo": {
-    "criteria": {
-      "megath_embryo": "2025-06-05 04:53:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/surface_moss": {
-    "criteria": {
-      "has_moss_block": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-05 04:22:34 +0000"
     },
     "done": true
   },
@@ -7323,51 +7401,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_the_recipe": "2025-06-05 04:38:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-05 05:13:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-06-05 04:20:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-05 05:15:01 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-06-05 04:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-05 04:17:12 +0000"
     },
     "done": true
   },
@@ -7377,45 +7413,9 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-05 04:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-05 04:38:23 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
-    "criteria": {
-      "loot_simple_dungeon": "2025-06-05 04:06:36 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
-    "criteria": {
-      "has_moss_block": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
-    },
-    "done": true
-  },
-  "seafarer:recipes/building_blocks/spiky_shell_bricks": {
-    "criteria": {
-      "has_spiky_shell": "2025-06-05 03:22:58 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
-    "criteria": {
-      "has_common_essence": "2025-06-05 04:38:10 +0000"
     },
     "done": true
   },
@@ -7431,39 +7431,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-06-05 05:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-06-05 03:42:16 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-05 05:28:45 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/thatch": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_planks": "2025-06-05 04:22:32 +0000"
+      "has_bone_meal": "2025-06-05 05:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 05:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-05 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-05 05:34:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-05 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/plants": {
-    "criteria": {
-      "anostylostroma_flask": "2025-06-05 03:28:12 +0000"
     },
     "done": true
   },
