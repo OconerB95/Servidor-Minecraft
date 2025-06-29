@@ -1,32 +1,29 @@
-[03:49:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:49:55] [ServerMain/INFO]: Loaded 1370 recipes
-[03:49:55] [ServerMain/INFO]: Loaded 1481 advancements
-[03:49:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[03:49:55] [Server thread/INFO]: Loading properties
-[03:49:55] [Server thread/INFO]: Default game type: SURVIVAL
-[03:49:55] [Server thread/INFO]: Generating keypair
-[03:49:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:49:55] [Server thread/INFO]: Using epoll channel type
-[03:49:55] [Server thread/INFO]: Preparing level "world"
-[03:49:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[03:49:59] [Server thread/INFO]: Time elapsed: 3265 ms
-[03:49:59] [Server thread/INFO]: Done (3.618s)! For help, type "help"
-[03:50:02] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
-[03:50:04] [Server thread/INFO]: NachoF0703[/127.137.68.227:40719] logged in with entity id 7 at (-198.79156558427218, 75.0, -193.9742065192881)
-[03:50:04] [Server thread/INFO]: NachoF0703 joined the game
-[03:50:32] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
-[03:50:34] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:51519] logged in with entity id 293 at (-254.5, 68.0, -456.5)
-[03:50:34] [Server thread/INFO]: MaaurooSSJ joined the game
-[03:51:12] [Server thread/INFO]: <MaaurooSSJ> -254 -458
-[03:51:36] [Server thread/INFO]: <NachoF0703> -194-191
-[04:15:02] [Server thread/INFO]: MaaurooSSJ has made the advancement [Take Aim]
-[04:42:00] [Server thread/INFO]: NachoF0703 has made the advancement [Take Aim]
-[05:15:41] [Server thread/INFO]: <MaaurooSSJ> -254 -458
-[05:25:04] [Server thread/INFO]: MaaurooSSJ has made the advancement [Hot Stuff]
+[17:27:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:27:39] [ServerMain/INFO]: Loaded 1370 recipes
+[17:27:39] [ServerMain/INFO]: Loaded 1481 advancements
+[17:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:27:39] [Server thread/INFO]: Loading properties
+[17:27:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:39] [Server thread/INFO]: Generating keypair
+[17:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:27:39] [Server thread/INFO]: Using epoll channel type
+[17:27:39] [Server thread/INFO]: Preparing level "world"
+[17:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:27:43] [Server thread/INFO]: Time elapsed: 3675 ms
+[17:27:43] [Server thread/INFO]: Done (4.090s)! For help, type "help"
+[17:28:28] [User Authenticator #1/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[17:28:30] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:39637] logged in with entity id 5 at (-293.9269071310218, 112.0, -902.0554758336027)
+[17:28:30] [Server thread/INFO]: MaaurooSSJ joined the game
+[17:28:35] [User Authenticator #2/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[17:28:36] [Server thread/INFO]: NachoF0703[/127.137.68.227:34403] logged in with entity id 285 at (-292.74033039667813, 112.0, -897.9125310491588)
+[17:28:36] [Server thread/INFO]: NachoF0703 joined the game
+[17:29:28] [Server thread/INFO]: NachoF0703 burned to death
+[17:35:17] [Server thread/INFO]: NachoF0703 has made the advancement [Fishy Business]
