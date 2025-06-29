@@ -490,11 +490,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-29 18:11:37 +0000",
       "minecraft:skeleton": "2025-06-20 23:43:14 +0000",
       "minecraft:enderman": "2025-06-29 05:00:45 +0000",
       "minecraft:spider": "2025-06-20 23:45:15 +0000",
       "minecraft:zombie": "2025-06-20 23:42:02 +0000",
       "minecraft:creeper": "2025-06-29 03:11:39 +0000",
+      "minecraft:drowned": "2025-06-29 17:46:18 +0000",
       "minecraft:slime": "2025-06-29 05:02:39 +0000"
     },
     "done": false
@@ -1696,6 +1698,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-29 17:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-29 18:13:58 +0000"
     },
     "done": true
   },
