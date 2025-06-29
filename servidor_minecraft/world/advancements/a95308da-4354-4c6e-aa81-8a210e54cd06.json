@@ -622,7 +622,8 @@
       "minecraft:zombie": "2025-06-20 23:58:11 +0000",
       "minecraft:creeper": "2025-06-29 02:03:16 +0000",
       "minecraft:drowned": "2025-06-29 04:43:42 +0000",
-      "minecraft:zombie_villager": "2025-06-29 04:29:34 +0000"
+      "minecraft:zombie_villager": "2025-06-29 04:29:34 +0000",
+      "minecraft:slime": "2025-06-29 05:02:29 +0000"
     },
     "done": false
   },
@@ -1400,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 05:02:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-29 04:39:39 +0000"
@@ -1532,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 05:02:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-29 04:16:04 +0000"
@@ -1649,6 +1662,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-29 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 05:02:49 +0000"
     },
     "done": true
   },
