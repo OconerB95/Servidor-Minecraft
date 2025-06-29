@@ -376,7 +376,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-20 23:37:50 +0000",
-      "cooked_mutton": "2025-06-29 02:25:44 +0000"
+      "cooked_mutton": "2025-06-29 02:25:44 +0000",
+      "cooked_beef": "2025-06-29 02:31:04 +0000"
     },
     "done": false
   },
@@ -611,6 +612,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-20 23:45:40 +0000",
+      "minecraft:witch": "2025-06-29 02:34:59 +0000",
+      "minecraft:spider": "2025-06-29 02:36:20 +0000",
       "minecraft:zombie": "2025-06-20 23:58:11 +0000",
       "minecraft:creeper": "2025-06-29 02:03:16 +0000"
     },
@@ -1093,6 +1096,12 @@
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-29 02:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-29 02:27:13 +0000"
     },
     "done": true
   },
