@@ -1,28 +1,29 @@
-[22:27:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:27:31] [ServerMain/INFO]: Loaded 1370 recipes
-[22:27:31] [ServerMain/INFO]: Loaded 1481 advancements
-[22:27:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[22:27:31] [Server thread/INFO]: Loading properties
-[22:27:31] [Server thread/INFO]: Default game type: SURVIVAL
-[22:27:31] [Server thread/INFO]: Generating keypair
-[22:27:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:27:32] [Server thread/INFO]: Using epoll channel type
-[22:27:32] [Server thread/INFO]: Preparing level "world"
-[22:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:35] [Server thread/INFO]: Time elapsed: 2658 ms
-[22:27:35] [Server thread/INFO]: Done (2.892s)! For help, type "help"
-[22:27:42] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
-[22:27:44] [Server thread/INFO]: NachoF0703[/127.137.68.227:34271] logged in with entity id 7 at (-285.6647679259844, 118.0, -903.1058986129243)
-[22:27:44] [Server thread/INFO]: NachoF0703 joined the game
-[22:28:19] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
-[22:28:20] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:37885] logged in with entity id 273 at (-296.1998749166835, 118.0, -903.4506324164491)
-[22:28:20] [Server thread/INFO]: MaaurooSSJ joined the game
-[23:18:32] [Server thread/INFO]: NachoF0703 has made the advancement [The Parrots and the Bats]
-[23:59:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-235, y=63, z=-836} ji{x=-236, y=62, z=-836}
-[23:59:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-235, y=63, z=-836} ji{x=-236, y=62, z=-836}
+[22:35:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:35:08] [ServerMain/INFO]: Loaded 1370 recipes
+[22:35:08] [ServerMain/INFO]: Loaded 1481 advancements
+[22:35:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:35:08] [Server thread/INFO]: Loading properties
+[22:35:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:35:08] [Server thread/INFO]: Generating keypair
+[22:35:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:35:08] [Server thread/INFO]: Using epoll channel type
+[22:35:08] [Server thread/INFO]: Preparing level "world"
+[22:35:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:35:12] [Server thread/INFO]: Time elapsed: 3791 ms
+[22:35:12] [Server thread/INFO]: Done (4.065s)! For help, type "help"
+[22:36:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:36:30] [User Authenticator #1/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[22:36:31] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:48071] logged in with entity id 7 at (-289.2169454231171, 65.0, -901.7405358344411)
+[22:36:31] [Server thread/INFO]: MaaurooSSJ joined the game
+[22:44:05] [User Authenticator #2/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[22:44:07] [Server thread/INFO]: NachoF0703[/127.137.68.227:44741] logged in with entity id 1256 at (-285.4235700853253, 112.0, -906.0980832138462)
+[22:44:07] [Server thread/INFO]: NachoF0703 joined the game
+[22:46:59] [Server thread/INFO]: NachoF0703 has made the advancement [Ice Bucket Challenge]
