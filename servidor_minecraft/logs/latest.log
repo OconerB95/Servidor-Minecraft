@@ -25,3 +25,6 @@
 [21:42:06] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
 [21:42:07] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:39639] logged in with entity id 2736 at (-292.46994058631856, 58.0, -904.3962739155669)
 [21:42:07] [Server thread/INFO]: MaaurooSSJ joined the game
+[21:47:58] [Server thread/INFO]: <MaaurooSSJ> -383 -934
+[22:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4562, y=56, z=-893} ji{x=-4562, y=55, z=-893}
+[22:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4562, y=56, z=-893} ji{x=-4562, y=55, z=-893}
