@@ -1,2 +1,24 @@
-[00:00:55] [Server thread/INFO]: NachoF0703 lost connection: Disconnected
-[00:00:55] [Server thread/INFO]: NachoF0703 left the game
+[21:23:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:23:14] [ServerMain/INFO]: Loaded 1370 recipes
+[21:23:14] [ServerMain/INFO]: Loaded 1481 advancements
+[21:23:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:23:14] [Server thread/INFO]: Loading properties
+[21:23:14] [Server thread/INFO]: Default game type: SURVIVAL
+[21:23:14] [Server thread/INFO]: Generating keypair
+[21:23:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:23:15] [Server thread/INFO]: Using epoll channel type
+[21:23:15] [Server thread/INFO]: Preparing level "world"
+[21:23:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:23:19] [Worker-Main-3/INFO]: Preparing spawn area: 61%
+[21:23:19] [Server thread/INFO]: Time elapsed: 3594 ms
+[21:23:19] [Server thread/INFO]: Done (3.903s)! For help, type "help"
+[21:24:16] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[21:24:17] [Server thread/INFO]: NachoF0703[/127.137.68.227:39395] logged in with entity id 7 at (-289.1022482830265, 58.0, -905.0689428552364)
+[21:24:17] [Server thread/INFO]: NachoF0703 joined the game
