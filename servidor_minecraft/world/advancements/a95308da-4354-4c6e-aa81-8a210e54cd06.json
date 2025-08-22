@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-22 05:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-22 04:40:10 +0000"
@@ -1171,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-22 05:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-22 03:41:57 +0000"
@@ -1180,6 +1192,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-22 03:40:09 +0000",
+      "bread": "2025-08-22 05:02:03 +0000",
       "cooked_mutton": "2025-08-22 03:43:01 +0000",
       "cooked_beef": "2025-08-22 03:37:50 +0000"
     },
@@ -1206,6 +1219,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-22 03:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-22 05:02:07 +0000"
     },
     "done": true
   },
