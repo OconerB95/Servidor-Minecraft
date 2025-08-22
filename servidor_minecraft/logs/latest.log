@@ -1,30 +1,44 @@
-[21:23:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:23:14] [ServerMain/INFO]: Loaded 1370 recipes
-[21:23:14] [ServerMain/INFO]: Loaded 1481 advancements
-[21:23:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:23:14] [Server thread/INFO]: Loading properties
-[21:23:14] [Server thread/INFO]: Default game type: SURVIVAL
-[21:23:14] [Server thread/INFO]: Generating keypair
-[21:23:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:23:15] [Server thread/INFO]: Using epoll channel type
-[21:23:15] [Server thread/INFO]: Preparing level "world"
-[21:23:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:23:19] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[21:23:19] [Server thread/INFO]: Time elapsed: 3594 ms
-[21:23:19] [Server thread/INFO]: Done (3.903s)! For help, type "help"
-[21:24:16] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
-[21:24:17] [Server thread/INFO]: NachoF0703[/127.137.68.227:39395] logged in with entity id 7 at (-289.1022482830265, 58.0, -905.0689428552364)
-[21:24:17] [Server thread/INFO]: NachoF0703 joined the game
-[21:42:06] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
-[21:42:07] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:39639] logged in with entity id 2736 at (-292.46994058631856, 58.0, -904.3962739155669)
-[21:42:07] [Server thread/INFO]: MaaurooSSJ joined the game
-[21:47:58] [Server thread/INFO]: <MaaurooSSJ> -383 -934
-[22:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4562, y=56, z=-893} ji{x=-4562, y=55, z=-893}
-[22:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4562, y=56, z=-893} ji{x=-4562, y=55, z=-893}
+[03:30:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:30:36] [ServerMain/INFO]: No existing world data, creating new world
+[03:30:37] [ServerMain/INFO]: Loaded 1407 recipes
+[03:30:37] [ServerMain/INFO]: Loaded 1520 advancements
+[03:30:37] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[03:30:37] [Server thread/INFO]: Loading properties
+[03:30:37] [Server thread/INFO]: Default game type: SURVIVAL
+[03:30:37] [Server thread/INFO]: Generating keypair
+[03:30:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:30:37] [Server thread/INFO]: Using epoll channel type
+[03:30:37] [Server thread/INFO]: Preparing level "world"
+[03:30:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:30:44] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:30:44] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[03:30:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:30:45] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:30:46] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[03:30:46] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[03:30:47] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[03:30:47] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[03:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[03:30:48] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[03:30:48] [Server thread/INFO]: Time elapsed: 4946 ms
+[03:30:48] [Server thread/INFO]: Done (11.161s)! For help, type "help"
+[03:31:05] [User Authenticator #1/INFO]: UUID of player toxico845 is 71b4f43f-fbcd-43cb-959a-8b5890a2c151
+[03:31:07] [Server thread/INFO]: toxico845[/127.18.63.97:57079] logged in with entity id 26 at (-302.5, 64.0, -143.5)
+[03:31:07] [Server thread/INFO]: toxico845 joined the game
+[03:31:47] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[03:31:48] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:32815] logged in with entity id 510 at (-301.5, 63.0, -141.5)
+[03:31:48] [Server thread/INFO]: MaaurooSSJ joined the game
+[03:32:13] [Server thread/INFO]: toxico845 has made the advancement [Stone Age]
+[03:32:26] [Server thread/INFO]: MaaurooSSJ has made the advancement [Stone Age]
+[03:32:39] [Server thread/INFO]: MaaurooSSJ has made the advancement [Getting an Upgrade]
+[03:33:21] [Server thread/INFO]: toxico845 has made the advancement [Getting an Upgrade]
+[03:34:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-408, y=64, z=-40} jb{x=-407, y=67, z=-40}
+[03:41:25] [Server thread/INFO]: MaaurooSSJ has made the advancement [Monster Hunter]
+[03:42:13] [Server thread/INFO]: toxico845 has made the advancement [Monster Hunter]
+[03:47:10] [Server thread/INFO]: MaaurooSSJ has made the advancement [Acquire Hardware]
+[03:47:19] [Server thread/INFO]: MaaurooSSJ has made the advancement [Isn't It Iron Pick]
+[03:48:06] [Server thread/INFO]: toxico845 has made the advancement [Acquire Hardware]
+[03:48:12] [Server thread/INFO]: toxico845 has made the advancement [Suit Up]
+[03:50:48] [Server thread/INFO]: toxico845 has made the advancement [Isn't It Iron Pick]
+[03:51:06] [Server thread/INFO]: toxico845 has made the advancement [Not Today, Thank You]
+[04:06:21] [Server thread/INFO]: toxico845 has made the advancement [Ice Bucket Challenge]
