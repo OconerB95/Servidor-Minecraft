@@ -920,8 +920,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-22 04:22:20 +0000",
+      "minecraft:spider": "2025-08-22 04:44:15 +0000",
       "minecraft:zombie": "2025-08-22 03:41:25 +0000",
-      "minecraft:drowned": "2025-08-22 04:11:14 +0000"
+      "minecraft:drowned": "2025-08-22 04:11:14 +0000",
+      "minecraft:zombie_villager": "2025-08-22 04:44:42 +0000"
     },
     "done": false
   },
@@ -1006,6 +1008,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-08-22 04:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-22 04:44:06 +0000"
     },
     "done": true
   },
