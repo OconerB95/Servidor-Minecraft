@@ -1,42 +1,29 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "unknown-dated.gl.joinmc.link",
-          "assigned_srv": "unknown-dated.gl.joinmc.link",
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "a88b26cb-d778-469c-ad13-09520e67e589",
-          "ip_hostname": "25.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 45693,
-          "port_start": 45692,
-          "region": "global",
-          "static_ip4": "147.185.221.25",
-          "static_ip6": "2602:fbaf:0:1::19",
-          "tunnel_ip": "2602:fbaf:0:1::19"
+          "reason": "over-port-limit"
         },
-        "status": "allocated"
+        "status": "disabled"
       },
-      "created_at": "2025-08-22T03:26:40.188161Z",
-      "disabled_reason": null,
+      "created_at": "2025-08-24T23:15:08.475593Z",
+      "disabled_reason": "over-port-limit",
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "97206081-3fe6-4b9b-94d1-2d7b0e4382f1",
+      "id": "f43532b1-6f80-4382-a1d6-d1956b795684",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "781f2dfa-806e-4ccf-ba58-eb12e472cd4d",
-          "agent_name": "Vanilla Toxi",
+          "agent_id": "2da66b31-869d-4614-8e86-1abadf50b23b",
+          "agent_name": "Los Pibes",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
