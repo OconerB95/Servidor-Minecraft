@@ -1,42 +1,22 @@
-[23:21:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:21:38] [ServerMain/INFO]: Loaded 1407 recipes
-[23:21:38] [ServerMain/INFO]: Loaded 1520 advancements
-[23:21:38] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[23:21:38] [Server thread/INFO]: Loading properties
-[23:21:38] [Server thread/INFO]: Default game type: SURVIVAL
-[23:21:38] [Server thread/INFO]: Generating keypair
-[23:21:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:21:38] [Server thread/INFO]: Using epoll channel type
-[23:21:38] [Server thread/INFO]: Preparing level "world"
-[23:21:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:21:41] [Server thread/INFO]: Time elapsed: 2893 ms
-[23:21:41] [Server thread/INFO]: Done (3.322s)! For help, type "help"
-[23:22:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:23:08] [User Authenticator #1/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
-[23:23:09] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:50323] logged in with entity id 12 at (315.5, 70.0, 266.5)
-[23:23:09] [Server thread/INFO]: MaaurooSSJ joined the game
-[23:23:22] [User Authenticator #2/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
-[23:23:24] [Server thread/INFO]: NachoF0703[/127.137.68.227:39293] logged in with entity id 176 at (318.5, 95.0, 272.5)
-[23:23:24] [Server thread/INFO]: NachoF0703 joined the game
-[23:25:00] [Server thread/INFO]: MaaurooSSJ has made the advancement [Stone Age]
-[23:25:18] [Server thread/INFO]: MaaurooSSJ has made the advancement [Getting an Upgrade]
-[23:25:38] [Server thread/INFO]: NachoF0703 has made the advancement [Stone Age]
-[23:26:13] [Server thread/INFO]: NachoF0703 has made the advancement [Getting an Upgrade]
-[23:28:30] [Server thread/INFO]: MaaurooSSJ lost connection: Disconnected
-[23:28:30] [Server thread/INFO]: MaaurooSSJ left the game
-[23:28:33] [User Authenticator #3/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
-[23:28:33] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:51627] logged in with entity id 1516 at (397.75915605157013, 67.0, 271.0812658998716)
-[23:28:33] [Server thread/INFO]: MaaurooSSJ joined the game
-[23:34:33] [Server thread/INFO]: MaaurooSSJ has made the advancement [Monster Hunter]
-[23:35:19] [Server thread/INFO]: MaaurooSSJ has made the advancement [Sweet Dreams]
-[23:35:32] [Server thread/INFO]: NachoF0703 has made the advancement [Sweet Dreams]
-[23:39:21] [Server thread/INFO]: MaaurooSSJ has made the advancement [The Parrots and the Bats]
-[23:46:00] [Server thread/INFO]: NachoF0703 has made the advancement [Acquire Hardware]
-[23:49:42] [Server thread/INFO]: NachoF0703 has made the advancement [Isn't It Iron Pick]
-[23:50:12] [Server thread/INFO]: NachoF0703 has made the advancement [Suit Up]
+[00:00:58] [Server thread/INFO]: NachoF0703 lost connection: Disconnected
+[00:00:58] [Server thread/INFO]: NachoF0703 left the game
+[00:01:47] [User Authenticator #5/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[00:01:48] [Server thread/INFO]: NachoF0703[/127.137.68.227:33513] logged in with entity id 12267 at (628.605951253988, 40.0, 478.94909887490917)
+[00:01:48] [Server thread/INFO]: NachoF0703 joined the game
+[00:01:51] [User Authenticator #6/INFO]: UUID of player toxico845 is 71b4f43f-fbcd-43cb-959a-8b5890a2c151
+[00:01:52] [Server thread/INFO]: toxico845[/127.18.63.97:49311] logged in with entity id 12314 at (311.5, 70.0, 275.5)
+[00:01:52] [Server thread/INFO]: toxico845 joined the game
+[00:02:21] [Server thread/INFO]: toxico845 was slain by Zombie
+[00:03:21] [Server thread/INFO]: toxico845 has made the advancement [Stone Age]
+[00:04:59] [Server thread/INFO]: toxico845 has made the advancement [Getting an Upgrade]
+[00:05:30] [Server thread/INFO]: MaaurooSSJ has made the advancement [Acquire Hardware]
+[00:07:57] [Server thread/INFO]: NachoF0703 has made the advancement [Monster Hunter]
+[00:08:10] [Server thread/INFO]: toxico845 has made the advancement [Monster Hunter]
+[00:09:52] [Server thread/INFO]: NachoF0703 has made the advancement [Not Today, Thank You]
+[00:10:59] [Server thread/INFO]: MaaurooSSJ has made the advancement [Not Today, Thank You]
+[00:12:37] [Server thread/INFO]: MaaurooSSJ has made the advancement [Isn't It Iron Pick]
+[00:14:14] [Server thread/INFO]: MaaurooSSJ has made the advancement [Suit Up]
+[00:18:45] [Server thread/INFO]: MaaurooSSJ was shot by Skeleton
+[00:19:47] [Server thread/INFO]: toxico845 has made the advancement [Acquire Hardware]
+[00:20:06] [Server thread/INFO]: toxico845 has made the advancement [Suit Up]
+[00:20:51] [Server thread/INFO]: toxico845 has made the advancement [Isn't It Iron Pick]
