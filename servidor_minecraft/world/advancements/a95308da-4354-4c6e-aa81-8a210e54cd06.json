@@ -345,6 +345,7 @@
       "cooked_porkchop": "2025-08-25 00:35:28 +0000",
       "bread": "2025-08-24 23:48:52 +0000",
       "sweet_berries": "2025-08-24 23:29:20 +0000",
+      "cooked_beef": "2025-08-28 00:15:19 +0000",
       "carrot": "2025-08-25 23:56:22 +0000"
     },
     "done": false
@@ -1639,6 +1640,24 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-08-28 00:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-28 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-28 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-28 00:19:51 +0000"
     },
     "done": true
   },
