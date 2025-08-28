@@ -1,2 +1,32 @@
-[00:08:25] [Server thread/INFO]: MaaurooSSJ has made the advancement [Cover Me with Diamonds]
-[00:11:24] [Server thread/INFO]: MaaurooSSJ has made the advancement [Take Aim]
+[00:07:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:07:27] [ServerMain/INFO]: Loaded 1407 recipes
+[00:07:27] [ServerMain/INFO]: Loaded 1520 advancements
+[00:07:27] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[00:07:27] [Server thread/INFO]: Loading properties
+[00:07:27] [Server thread/INFO]: Default game type: SURVIVAL
+[00:07:27] [Server thread/INFO]: Generating keypair
+[00:07:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:07:27] [Server thread/INFO]: Using epoll channel type
+[00:07:27] [Server thread/INFO]: Preparing level "world"
+[00:07:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:07:32] [Server thread/INFO]: Time elapsed: 4085 ms
+[00:07:32] [Server thread/INFO]: Done (4.394s)! For help, type "help"
+[00:07:38] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[00:07:39] [Server thread/INFO]: NachoF0703[/127.137.68.227:41769] logged in with entity id 16 at (853.0877560084054, 76.0, -262.46530673946313)
+[00:07:39] [Server thread/INFO]: NachoF0703 joined the game
+[00:07:49] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[00:07:49] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:60665] logged in with entity id 310 at (503.69999998807907, 13.0, 675.3000000119209)
+[00:07:49] [Server thread/INFO]: MaaurooSSJ joined the game
+[00:08:54] [User Authenticator #3/INFO]: UUID of player toxico845 is 71b4f43f-fbcd-43cb-959a-8b5890a2c151
+[00:08:55] [Server thread/INFO]: toxico845[/127.18.63.97:41339] logged in with entity id 852 at (345.52510695707275, -54.0, 494.51063855863265)
+[00:08:55] [Server thread/INFO]: toxico845 joined the game
+[00:10:02] [Server thread/INFO]: <MaaurooSSJ> 600 620
