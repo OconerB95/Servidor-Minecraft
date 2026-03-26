@@ -1,0 +1,43 @@
+[18:07:08] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[18:07:08] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[18:07:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor-Minecraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:07:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:07:16] [main/INFO]: Loaded 1470 recipes
+[18:07:16] [main/INFO]: Loaded 1584 advancements
+[18:07:16] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:07:16] [Server thread/INFO]: Loading properties
+[18:07:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:16] [Server thread/INFO]: Generating keypair
+[18:07:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:16] [Server thread/INFO]: Preparing level "world"
+[18:07:16] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:07:16] [Server thread/INFO]: Preparing spawn area: 100%
+[18:07:16] [Server thread/INFO]: Time elapsed: 15 ms
+[18:07:17] [Server thread/INFO]: Done (0.388s)! For help, type "help"
+[18:08:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:08:42] [User Authenticator #1/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[18:08:44] [Server thread/INFO]: NachoF0703[/127.137.68.227:44845] logged in with entity id 22 at (3352.6997383884423, -29.0, -342.09722574640637)
+[18:08:44] [Server thread/INFO]: NachoF0703 joined the game
+[18:09:34] [User Authenticator #2/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[18:09:35] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:45355] logged in with entity id 292 at (3294.2249095738152, 68.0, -231.19402254050271)
+[18:09:35] [Server thread/INFO]: MaaurooSSJ joined the game
+[18:10:48] [Server thread/INFO]: NachoF0703 has made the advancement [Cover Me with Diamonds]
+[18:25:17] [Server thread/INFO]: NachoF0703 was blown up by Creeper
+[18:25:36] [Server thread/INFO]: <MaaurooSSJ> 3324 300
+[18:25:50] [Server thread/INFO]: <MaaurooSSJ> 24 -246
+[18:26:36] [Server thread/INFO]: [MaaurooSSJ: Teleported NachoF0703 to MaaurooSSJ]
+[18:27:00] [Server thread/INFO]: MaaurooSSJ was shot by Skeleton
+[18:28:21] [Server thread/INFO]: NachoF0703 was shot by Skeleton
+[18:39:27] [Server thread/INFO]: NachoF0703 fell from a high place
+[18:42:06] [Server thread/INFO]: <MaaurooSSJ> 3293 68 -219
+[19:13:36] [Server thread/INFO]: NachoF0703 was shot by Skeleton
+[19:14:39] [Server thread/INFO]: NachoF0703 was shot by Skeleton
+[19:22:44] [Server thread/INFO]: MaaurooSSJ has made the advancement [Diamonds!]
+[19:25:39] [Server thread/INFO]: MaaurooSSJ has made the advancement [Take Aim]
+[19:43:07] [Server thread/INFO]: NachoF0703 was blown up by Creeper
+[19:44:02] [Server thread/INFO]: NachoF0703 has made the advancement [Take Aim]
+[19:44:06] [Server thread/INFO]: MaaurooSSJ was shot by NachoF0703
