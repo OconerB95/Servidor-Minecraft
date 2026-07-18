@@ -1,0 +1,66 @@
+[18:04:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:04:55] [ServerMain/INFO]: Loaded 1470 recipes
+[18:04:55] [ServerMain/INFO]: Loaded 1584 advancements
+[18:04:55] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:04:55] [Server thread/INFO]: Loading properties
+[18:04:55] [Server thread/INFO]: Default game type: SURVIVAL
+[18:04:55] [Server thread/INFO]: Generating keypair
+[18:04:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:04:55] [Server thread/INFO]: Preparing level "world"
+[18:04:55] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:04:55] [Server thread/INFO]: Preparing spawn area: 100%
+[18:04:55] [Server thread/INFO]: Time elapsed: 14 ms
+[18:04:55] [Server thread/INFO]: Done (0.406s)! For help, type "help"
+[18:05:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:06:08] [User Authenticator #1/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[18:06:09] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:34985] logged in with entity id 47 at (-1241.9478579756767, -33.0, 1233.9965920948969)
+[18:06:10] [Server thread/INFO]: MaaurooSSJ joined the game
+[18:07:51] [User Authenticator #2/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[18:07:53] [Server thread/INFO]: NachoF0703[/127.137.68.227:43649] logged in with entity id 736 at (-1046.37037930814, 63.0, 1019.0907647024162)
+[18:07:53] [Server thread/INFO]: NachoF0703 joined the game
+[18:13:45] [Server thread/INFO]: MaaurooSSJ lost connection: Disconnected
+[18:13:45] [Server thread/INFO]: MaaurooSSJ left the game
+[18:14:57] [User Authenticator #3/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[18:14:58] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:50361] logged in with entity id 3607 at (-1055.6482718203617, 64.0, 1021.3178843077683)
+[18:14:58] [Server thread/INFO]: MaaurooSSJ joined the game
+[18:22:01] [Server thread/WARN]: NachoF0703 moved too quickly! 0.14082875586404953,-3.130906499714527,-9.810563627748706
+[18:22:01] [Server thread/WARN]: MaaurooSSJ moved too quickly! -9.426791191986922,4.001335979112149,-0.844982275353459
+[18:25:03] [Server thread/INFO]: NachoF0703 has made the advancement [Best Friends Forever]
+[18:45:30] [Server thread/INFO]: MaaurooSSJ lost connection: Disconnected
+[18:45:30] [Server thread/INFO]: MaaurooSSJ left the game
+[18:45:30] [Server thread/WARN]: handleDisconnection() called twice
+[18:45:41] [Server thread/INFO]: NachoF0703 lost connection: Timed out
+[18:45:41] [Server thread/INFO]: NachoF0703 left the game
+[18:45:42] [User Authenticator #4/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[18:45:43] [Server thread/INFO]: NachoF0703[/127.137.68.227:33041] logged in with entity id 17310 at (-1047.096958561445, 63.0, 1018.0454533656088)
+[18:45:43] [Server thread/INFO]: NachoF0703 joined the game
+[18:45:45] [User Authenticator #5/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[18:45:46] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:36997] logged in with entity id 17573 at (-1663.0732064591275, 68.0, 1008.3863521107634)
+[18:45:46] [Server thread/INFO]: MaaurooSSJ joined the game
+[18:45:57] [User Authenticator #6/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[18:45:57] [Server thread/INFO]: NachoF0703 lost connection: You logged in from another location
+[18:45:57] [Server thread/INFO]: NachoF0703 left the game
+[18:45:58] [Server thread/INFO]: NachoF0703[/127.137.68.227:44455] logged in with entity id 17959 at (-1047.096958561445, 63.0, 1018.0454533656088)
+[18:45:58] [Server thread/INFO]: NachoF0703 joined the game
+[18:55:43] [Server thread/INFO]: NachoF0703 has made the advancement [Take Aim]
+[18:57:08] [Server thread/INFO]: MaaurooSSJ was shot by NachoF0703
+[19:08:45] [Server thread/INFO]: NachoF0703 lost connection: Timed out
+[19:08:45] [Server thread/INFO]: NachoF0703 left the game
+[19:08:48] [Server thread/INFO]: MaaurooSSJ lost connection: Timed out
+[19:08:48] [Server thread/INFO]: MaaurooSSJ left the game
+[19:08:56] [User Authenticator #7/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[19:08:57] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:42669] logged in with entity id 28886 at (-1335.3063742317945, 30.718000038325787, 969.6763667859024)
+[19:08:57] [Server thread/INFO]: MaaurooSSJ joined the game
+[19:09:01] [User Authenticator #8/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[19:09:02] [Server thread/INFO]: NachoF0703[/127.137.68.227:59163] logged in with entity id 29166 at (-1045.660853108925, 63.0, 1017.5432963711011)
+[19:09:02] [Server thread/INFO]: NachoF0703 joined the game
+[19:15:17] [Server thread/INFO]: NachoF0703 lost connection: Timed out
+[19:15:17] [Server thread/INFO]: NachoF0703 left the game
+[19:15:26] [User Authenticator #9/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[19:15:26] [Server thread/INFO]: MaaurooSSJ lost connection: You logged in from another location
+[19:15:26] [Server thread/INFO]: MaaurooSSJ left the game
+[19:15:27] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:35111] logged in with entity id 31400 at (-1423.5353057473137, 1.2315237975870112, 948.3949817108643)
+[19:15:27] [Server thread/INFO]: MaaurooSSJ joined the game
+[19:15:52] [User Authenticator #10/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[19:15:53] [Server thread/INFO]: NachoF0703[/127.137.68.227:41137] logged in with entity id 31703 at (-1058.322497139876, 64.0, 1013.087597872559)
+[19:15:53] [Server thread/INFO]: NachoF0703 joined the game
