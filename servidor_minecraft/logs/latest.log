@@ -1,0 +1,72 @@
+[19:32:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:33:01] [ServerMain/INFO]: Loaded 1470 recipes
+[19:33:01] [ServerMain/INFO]: Loaded 1584 advancements
+[19:33:01] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[19:33:01] [Server thread/INFO]: Loading properties
+[19:33:01] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:01] [Server thread/INFO]: Generating keypair
+[19:33:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:01] [Server thread/INFO]: Preparing level "world"
+[19:33:02] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:33:02] [Server thread/INFO]: Preparing spawn area: 100%
+[19:33:02] [Server thread/INFO]: Time elapsed: 11 ms
+[19:33:02] [Server thread/INFO]: Done (0.416s)! For help, type "help"
+[19:33:13] [User Authenticator #1/INFO]: UUID of player MaaurooSSJ is a95308da-4354-4c6e-aa81-8a210e54cd06
+[19:33:15] [Server thread/INFO]: MaaurooSSJ[/127.238.34.179:41457] logged in with entity id 65 at (3578.4449116128535, -17.0, 852.5422292567337)
+[19:33:15] [Server thread/INFO]: MaaurooSSJ joined the game
+[19:33:31] [User Authenticator #2/INFO]: UUID of player NachoF0703 is f92df7b1-2ef2-4854-ad91-8880a288c0d5
+[19:33:32] [Server thread/INFO]: NachoF0703[/127.137.68.227:36375] logged in with entity id 257 at (3569.300000011921, -25.0, 702.3000000119209)
+[19:33:32] [Server thread/INFO]: NachoF0703 joined the game
+[19:40:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3715, y=-41, z=884} is{x=3715, y=-41, z=885}
+[19:46:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3619, y=-21, z=937} is{x=3619, y=-22, z=937}
+[19:46:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3616, y=-20, z=945} is{x=3616, y=-22, z=945}
+[19:46:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3480, y=-6, z=536} is{x=3480, y=-7, z=536}
+[19:46:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3480, y=-6, z=536} is{x=3480, y=-7, z=536}
+[19:46:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3480, y=-6, z=536} is{x=3480, y=-7, z=536}
+[19:47:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3615, y=-18, z=945} is{x=3614, y=-19, z=945}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3605, y=-30, z=913} is{x=3605, y=-29, z=913}
+[19:49:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3613, y=-34, z=930} is{x=3614, y=-35, z=931}
+[19:51:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3613, y=-36, z=943} is{x=3612, y=-34, z=943}
+[19:51:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3613, y=-36, z=943} is{x=3612, y=-34, z=943}
+[19:51:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3613, y=-36, z=943} is{x=3612, y=-34, z=943}
+[19:51:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3615, y=-32, z=944} is{x=3615, y=-33, z=944}
+[19:53:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3611, y=-36, z=953} is{x=3610, y=-37, z=954}
+[19:53:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3610, y=-36, z=953} is{x=3610, y=-37, z=954}
+[19:59:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3617, y=-21, z=680} is{x=3617, y=-21, z=678}
+[19:59:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3628, y=-21, z=688} is{x=3628, y=-21, z=689}
+[20:00:31] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3634, y=-25, z=693} is{x=3635, y=-25, z=693}
+[20:00:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3633, y=-20, z=694} is{x=3632, y=-19, z=694}
+[20:00:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3633, y=-20, z=694} is{x=3632, y=-19, z=694}
+[20:00:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3631, y=-20, z=693} is{x=3632, y=-19, z=694}
+[20:01:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3636, y=-26, z=711} is{x=3637, y=-25, z=711}
+[20:02:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3623, y=-25, z=713} is{x=3625, y=-25, z=713}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3620, y=-26, z=698} is{x=3619, y=-26, z=699}
+[20:02:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3613, y=-26, z=701} is{x=3612, y=-26, z=700}
+[20:03:24] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3619, y=-26, z=707} is{x=3619, y=-26, z=708}
+[20:03:24] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3618, y=-26, z=707} is{x=3619, y=-26, z=708}
+[20:04:15] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3600, y=-25, z=722} is{x=3599, y=-26, z=723}
+[20:04:20] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3598, y=-29, z=728} is{x=3598, y=-28, z=728}
+[20:04:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3587, y=-35, z=727} is{x=3585, y=-36, z=726}
+[20:27:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-367, y=60, z=1062} is{x=-367, y=59, z=1062}
+[20:27:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-379, y=61, z=1057} is{x=-379, y=60, z=1057}
+[20:41:37] [Server thread/WARN]: NachoF0703 moved too quickly! 9.195452329101045,1.1767592750642375,4.125485739902274
+[20:58:55] [Server thread/INFO]: NachoF0703 has made the advancement [We Need to Go Deeper]
+[20:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[20:59:33] [Server thread/INFO]: MaaurooSSJ has made the advancement [We Need to Go Deeper]
+[21:01:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-118, y=52, z=148} is{x=-118, y=51, z=147}
+[21:19:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=37, y=75, z=-154} is{x=46, y=70, z=-104}
+[21:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=52, y=42, z=-252} is{x=165, y=58, z=-326}
+[21:26:47] [Server thread/INFO]: MaaurooSSJ has made the advancement [A Terrible Fortress]
+[21:26:51] [Server thread/INFO]: NachoF0703 has made the advancement [A Terrible Fortress]
+[21:30:31] [Server thread/INFO]: MaaurooSSJ has made the advancement [Into Fire]
+[21:31:45] [Server thread/INFO]: NachoF0703 has made the advancement [Into Fire]
+[21:33:22] [Server thread/INFO]: NachoF0703 has made the advancement [Spooky Scary Skeleton]
+[21:37:27] [Server thread/INFO]: NachoF0703 tried to swim in lava
+[21:37:31] [Server thread/INFO]: NachoF0703 lost connection: Disconnected
+[21:37:31] [Server thread/INFO]: NachoF0703 left the game
+[21:39:12] [Server thread/WARN]: Mismatch in destroy block pos: is{x=163, y=83, z=-272} is{x=168, y=83, z=-275}
